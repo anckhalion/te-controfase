@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use or cite this work, please cite it as below."
+type: dataset
+title: "La Tecnologia di Controfase — Volume 1: Fondamenti"
+authors:
+  - family-names: "Ghioni"
+    given-names: "Fabio"
+version: "1.1"
+date-released: "2026-09-05"
+license: CC-BY-NC-SA-4.0
+repository-code: "https://github.com/anckhalion/te-controfase"
+abstract: >
+  Foundational treatise of the Tecnologia di Controfase series (Ordinative
+  Sciences programme). Counter-phase (controfase) is formalized as a universal
+  ordinative phase-shift operator: definition at two levels (deliberate act and
+  embedded structure), energetic accounting, topology of applicability,
+  execution algorithm, five falsifiability criteria, phenomenological
+  signature, and application across seven domains, with explicit confidence
+  grades (S0-S3). Includes a bilingual (IT/EN) instruction dataset for LoRA
+  fine-tuning. Italian native composition.
+keywords:
+  - controfase
+  - counter-phase
+  - ordinative sciences
+  - technology of expressions
+  - reactive systems
+  - engram
+  - phase-shift operator
+  - falsifiability
