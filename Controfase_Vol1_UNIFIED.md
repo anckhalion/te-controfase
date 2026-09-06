@@ -2335,10 +2335,6 @@ Sono lo stesso atto. È questa identità — attraverso il fluido e la mente, la
 
 I limiti restano, e li abbiamo dichiarati: l'osservatore che non sappiamo ancora far emergere, la soglia che non sappiamo derivare, l'architettura che non sappiamo ancora costruire, le scale che non sappiamo ancora calibrare, l'etica che non abbiamo ancora scritto. Sono il lavoro che viene. Ma l'operatore è costruito, e la grammatica è posta. E una grammatica è un passe-partout: una chiave tagliata sulla struttura delle serrature, che apre nei territori cartografati e in quelli ancora bianchi sulla mappa, perché ciò su cui è tagliata è presente ovunque vi sia una porta. Ciò che resta — eseguirlo, nella vita di chi legge — è il compito del volume che segue, e di chi vorrà, dove prima c'era reazione, mettere conoscenza in atto.
 
----
-
-*Ordinative Sciences Press*
-
 
 ---
 
