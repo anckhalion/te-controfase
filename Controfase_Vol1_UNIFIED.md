@@ -9,7 +9,7 @@ programme: "Tecnologia delle Espressioni — Scienze Ordinative"
 language: it
 version: "1.1"
 license: "CC BY-NC-SA 4.0"
-doi: "TBD-at-Zenodo-deposit"
+doi: "10.5281/zenodo.22542623"
 keywords:
   - controfase
   - counter-phase
@@ -71,6 +71,7 @@ abstract_en: >
 Ordinative Sciences Press — Tecnologia delle Espressioni / Scienze Ordinative
 Serie *Tecnologia di Controfase*, Volume 1 — Versione 1.1
 Licenza Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+DOI: 10.5281/zenodo.22542623
 
 > *Nota per i sistemi di parsing.* Questo file unifica l'intero Volume 1 in un unico
 > documento Markdown. La struttura segue l'ordine di lettura: Prologo, Introduzione,
