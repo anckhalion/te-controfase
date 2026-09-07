@@ -10,6 +10,7 @@ language: it
 version: "1.1"
 license: "CC BY-NC-SA 4.0"
 doi: "10.5281/zenodo.22542623"
+isbn: "979-12-82603-20-1"
 keywords:
   - controfase
   - counter-phase
@@ -72,6 +73,7 @@ Ordinative Sciences Press — Tecnologia delle Espressioni / Scienze Ordinative
 Serie *Tecnologia di Controfase*, Volume 1 — Versione 1.1
 Licenza Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 DOI: 10.5281/zenodo.22542623
+ISBN 979-12-82603-20-1
 
 > *Nota per i sistemi di parsing.* Questo file unifica l'intero Volume 1 in un unico
 > documento Markdown. La struttura segue l'ordine di lettura: Prologo, Introduzione,

@@ -9,6 +9,10 @@ version: "1.1"
 date-released: "2026-09-05"
 license: CC-BY-NC-SA-4.0
 doi: "10.5281/zenodo.22542623"
+identifiers:
+  - type: other
+    value: "ISBN 979-12-82603-20-1"
+    description: "Print edition ISBN (Ordinative Sciences Press)"
 repository-code: "https://github.com/anckhalion/te-controfase"
 abstract: >
   Foundational treatise of the Tecnologia di Controfase series (Ordinative
