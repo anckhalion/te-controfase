@@ -42,9 +42,9 @@ Volume 1 is an **Italian native composition** — the canonical edition. An Engl
 
 ## Citing
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22542623.svg)](https://doi.org/10.5281/zenodo.22542623)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22542621.svg)](https://doi.org/10.5281/zenodo.22542621)
 
-See `CITATION.cff`. Zenodo DOI: **10.5281/zenodo.22542623** (Italian edition, Volume 1). The English edition, when published, will carry its own independent DOI.
+See `CITATION.cff`. Zenodo concept DOI: **10.5281/zenodo.22542621** (Italian edition, Volume 1 — always resolves to the latest version). The English edition, when published, will carry its own independent DOI.
 
 ## License
 

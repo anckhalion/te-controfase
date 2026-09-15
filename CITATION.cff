@@ -5,10 +5,10 @@ title: "La Tecnologia di Controfase — Volume 1: Fondamenti"
 authors:
   - family-names: "Ghioni"
     given-names: "Fabio"
-version: "1.1"
-date-released: "2026-09-05"
+version: "1.2"
+date-released: "2026-09-14"
 license: CC-BY-NC-SA-4.0
-doi: "10.5281/zenodo.22542623"
+doi: "10.5281/zenodo.22542621"
 identifiers:
   - type: other
     value: "ISBN 979-12-82603-20-1"

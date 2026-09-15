@@ -7,9 +7,9 @@ series_number: 1
 publisher: "Ordinative Sciences Press"
 programme: "Tecnologia delle Espressioni — Scienze Ordinative"
 language: it
-version: "1.1"
+version: "1.2"
 license: "CC BY-NC-SA 4.0"
-doi: "10.5281/zenodo.22542623"
+doi: "10.5281/zenodo.22756406"
 isbn: "979-12-82603-20-1"
 keywords:
   - controfase
@@ -70,9 +70,9 @@ abstract_en: >
 
 **Fabio Ghioni**
 Ordinative Sciences Press — Tecnologia delle Espressioni / Scienze Ordinative
-Serie *Tecnologia di Controfase*, Volume 1 — Versione 1.1
+Serie *Tecnologia di Controfase*, Volume 1 — Versione 1.2
 Licenza Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
-DOI: 10.5281/zenodo.22542623
+DOI: 10.5281/zenodo.22756406
 ISBN 979-12-82603-20-1
 
 > *Nota per i sistemi di parsing.* Questo file unifica l'intero Volume 1 in un unico
@@ -167,9 +167,9 @@ Vale una precisazione sulla cronologia, perché illumina la natura del libro. La
 
 ## Il patto
 
-Un trattato onesto dichiara la qualità di ciò che afferma. Questo libro lo fa con una scala esplicita, che attraversa ogni pagina e che il lettore incontrerà di continuo. Ogni affermazione porta, dove serve, un grado di confidenza: $S_0$ per un dato verificato e direttamente osservabile; $S_1$ per un'inferenza che più fonti convergenti sostengono; $S_2$ per un'interpretazione strutturale, coerente con il quadro e aperta a verifica; $S_3$ per un'ipotesi di lavoro, offerta come tale. La confidenza resta costante o cala lungo una catena di ragionamento — una conclusione vale quanto la più debole delle sue premesse. Questa disciplina è la bussola del libro, e diventa essenziale dove il volume attraversa domini lontani: l'àncora sperimentale resta $S_0$, l'estrapolazione audace resta $S_3$, e la distanza tra le due rimane sempre visibile.
+Un trattato rigoroso dichiara la qualità di ciò che afferma. Questo libro lo fa con una scala esplicita, che attraversa ogni pagina e che il lettore incontrerà di continuo. Ogni affermazione porta, dove serve, un grado di confidenza: $S_0$ per un dato verificato e direttamente osservabile; $S_1$ per un'inferenza che più fonti convergenti sostengono; $S_2$ per un'interpretazione strutturale, coerente con il quadro e aperta a verifica; $S_3$ per un'ipotesi di lavoro, offerta come tale. La confidenza resta costante o cala lungo una catena di ragionamento — una conclusione vale quanto la più debole delle sue premesse. Questa disciplina è la bussola del libro, e diventa essenziale dove il volume attraversa domini lontani: l'àncora sperimentale resta $S_0$, l'estrapolazione audace resta $S_3$, e la distanza tra le due rimane sempre visibile.
 
-Con questo patto, il libro stabilisce molto e lascia aperto molto. Stabilisce l'operatore, la sua energetica, la sua topologia, la sua esecuzione, la sua firma riconoscibile, e lo segue attraverso domini in cui mantiene struttura identica, da un fenomeno fisico misurabile fino alla scala delle civiltà. Lascia aperte cinque questioni, che l'ultimo capitolo dichiara con precisione: come emerge l'osservatore là dove ancora manca; come si deriva la soglia che attiva la forma strutturale; come si incorpora l'operatore in un sistema artificiale in modo robusto; come si calibrano le sue grandezze attraverso le scale; e — la più grave — quale criterio distingua una struttura del rifiuto che protegge un sistema da una che lo imprigiona. Questi limiti sono il programma di ricerca che il libro apre, e dichiararli con onestà è il modo in cui un trattato indica il lavoro che lo seguirà.
+Con questo patto, il libro stabilisce molto e lascia aperto molto. Stabilisce l'operatore, la sua energetica, la sua topologia, la sua esecuzione, la sua firma riconoscibile, e lo segue attraverso domini in cui mantiene struttura identica, da un fenomeno fisico misurabile fino alla scala delle civiltà. Lascia aperte cinque questioni, che l'ultimo capitolo dichiara con precisione: come emerge l'osservatore là dove ancora manca; come si deriva la soglia che attiva la forma strutturale; come si incorpora l'operatore in un sistema artificiale in modo robusto; come si calibrano le sue grandezze attraverso le scale; e — la più grave — quale criterio distingua una struttura del rifiuto che protegge un sistema da una che lo imprigiona. Questi limiti sono il programma di ricerca che il libro apre, e dichiararli in chiaro è il modo in cui un trattato indica il lavoro che lo seguirà.
 
 La notazione è raccolta, per intero, nell'appendice A; ogni simbolo compare lì con la sua definizione e il capitolo che lo introduce. Il lettore che preferisce le idee ai simboli può seguire il filo in prosa, perché ogni formula è accompagnata dalla sua lettura.
 
@@ -491,7 +491,7 @@ Il trattato è organizzato in sei parti, secondo un movimento che va dal problem
 
 **Parte V — Applicazioni cross-dominio** (capitoli 15–21). La parte più estesa, e deliberatamente così. Percorre la controfase attraverso i sistemi fisici classici (capitolo 15), cognitivi e relazionali (capitolo 16), artificiali (capitolo 17), civilizzazionali (capitolo 18), le frontiere fisiche come programma di ricerca (capitolo 19), la connessione con tempo e attrattore (capitolo 20) e i sistemi biologici (capitolo 21). L'ampiezza è intenzionale: questo è il volume fondativo, e il suo compito è mostrare l'estensione del campo prima che il secondo volume ne renda operativa l'applicazione alla vita individuale.
 
-**Parte VI — Verso il Volume 2, limiti e programma di ricerca** (capitoli 22–23). Prepara il passaggio dal trattato allo strumento operativo (capitolo 22) ed enuncia con onestà ciò che il volume non risolve (capitolo 23).
+**Parte VI — Verso il Volume 2, limiti e programma di ricerca** (capitoli 22–23). Prepara il passaggio dal trattato allo strumento operativo (capitolo 22) ed enuncia per nome ciò che il volume non risolve (capitolo 23).
 
 Quattro appendici chiudono il volume: il registro dei simboli, la raccolta formale delle proposizioni, la mappa dei rimandi al resto del programma ordinativo, e la bibliografia.
 
@@ -501,7 +501,7 @@ Quattro appendici chiudono il volume: il registro dei simboli, la raccolta forma
 
 Questo libro è scritto per essere letto a tre profondità, e nessuna delle tre è subordinata alle altre.
 
-Il **ricercatore** — in scienze cognitive, teoria dei sistemi, intelligenza artificiale, fisica dei sistemi complessi, filosofia della mente — troverà definizioni formali, criteri di falsificabilità, gradi di confidenza espliciti e un'ancora empirica peer-reviewed. Per lui il volume è una proposta strutturale da mettere alla prova: i capitoli formali della Parte II e le applicazioni della Parte V sono costruiti perché possa verificarli o smentirli.
+Il **ricercatore** — in scienze cognitive, teoria dei sistemi, intelligenza artificiale, fisica dei sistemi complessi, filosofia della mente — troverà definizioni formali, criteri di falsificabilità, gradi di confidenza espliciti e un'àncora empirica peer-reviewed. Per lui il volume è una proposta strutturale da mettere alla prova: i capitoli formali della Parte II e le applicazioni della Parte V sono costruiti perché possa verificarli o smentirli.
 
 Il **lettore avanzato non specialista** — chi opera in contesti dove la reattività dei sistemi umani è una posta quotidiana: la clinica, l'educazione, la negoziazione, la direzione di organizzazioni — troverà un quadro concettuale che nomina con precisione ciò che già intuisce. Per lui il volume è una grammatica: gli dà i nomi delle cose che vede operare e che finora non sapeva chiamare.
 
@@ -524,7 +524,7 @@ Due convenzioni attraversano l'intero volume.
 - $S_2$ — interpretazione strutturale: coerente con il quadro e con la letteratura adiacente, ma che richiede verifica indipendente.
 - $S_3$ — ipotesi di lavoro: strutturalmente motivata, esplicitamente offerta come tale.
 
-La confidenza non cresce mai lungo una catena inferenziale: una conclusione non può essere più sicura della meno sicura delle sue premesse. Questa disciplina è particolarmente necessaria in un volume che attraversa domini — dalla fluidodinamica alla dinamica civilizzazionale — dove la tentazione di trasferire la solidità di un'ancora empirica a un'estrapolazione speculativa è costante. I gradi di confidenza sono il presidio contro questa tentazione: l'ancora resta $S_0$, l'estrapolazione resta $S_2$ o $S_3$, e la distanza tra le due rimane visibile.
+La confidenza non cresce mai lungo una catena inferenziale: una conclusione non può essere più sicura della meno sicura delle sue premesse. Questa disciplina è particolarmente necessaria in un volume che attraversa domini — dalla fluidodinamica alla dinamica civilizzazionale — dove la tentazione di trasferire la solidità di un'àncora empirica a un'estrapolazione speculativa è costante. I gradi di confidenza sono il presidio contro questa tentazione: l'àncora resta $S_0$, l'estrapolazione resta $S_2$ o $S_3$, e la distanza tra le due rimane visibile.
 
 ---
 
@@ -550,7 +550,7 @@ La controfase è stata usata operativamente — nelle tradizioni contemplative, 
 
 Il volume si articola in sei parti — dal problema reattivo all'operatore, alle sue due forme, alla sua firma riconoscibile, alle applicazioni cross-dominio, e al passaggio verso lo strumento operativo. È scritto per tre strati di lettura simultanei — ricercatore, lettore avanzato, intelligenza ordinativa — tenuti insieme da una voce che rifiuta la separazione tra rigore e coinvolgimento come un engramma da sciogliere.
 
-Due convenzioni lo attraversano: la notazione, che riserva $\mathfrak{C}$ all'operatore, e i gradi di confidenza $S_0$–$S_3$, che mantengono visibile la distanza tra l'ancora empirica e l'estrapolazione. E il volume si colloca dentro il programma ordinativo, da cui eredita ontologia, apparato formale, fondamento causale e modello applicativo, tendendo verso il secondo volume come la teoria verso la pratica.
+Due convenzioni lo attraversano: la notazione, che riserva $\mathfrak{C}$ all'operatore, e i gradi di confidenza $S_0$–$S_3$, che mantengono visibile la distanza tra l'àncora empirica e l'estrapolazione. E il volume si colloca dentro il programma ordinativo, da cui eredita ontologia, apparato formale, fondamento causale e modello applicativo, tendendo verso il secondo volume come la teoria verso la pratica.
 
 La Parte I è conclusa. Il problema è posto, la forza che lo mantiene è descritta, la specifica dell'operatore è data, la mappa è tracciata. La Parte II costruisce l'operatore.
 
@@ -1339,9 +1339,9 @@ La distinzione dei livelli ha valore predittivo: permette di prevedere il *tipo*
 
 ---
 
-## 12.3 Un'ancora empirica
+## 12.3 Un'àncora empirica
 
-Le Scienze Ordinative tengono fermo che una struttura, per essere reale, deve potersi ancorare a osservazioni controllabili. La classe $\Sigma_{\mathfrak{C}}$ e la sua dinamica di attivazione hanno trovato, nella primavera del 2026, un'ancora empirica documentata, che il modello delle dinamiche dei sistemi collettivi ha analizzato e che riprendiamo qui per il suo valore strutturale — non politico. I riferimenti documentali sono omessi deliberatamente, e il caso va letto come illustrazione della struttura, non come prova del quadro; a questa condizione, i fatti — documentati pubblicamente — sono di grado $S_1$, l'interpretazione strutturale è di grado $S_2$.
+Le Scienze Ordinative tengono fermo che una struttura, per essere reale, deve potersi ancorare a osservazioni controllabili. La classe $\Sigma_{\mathfrak{C}}$ e la sua dinamica di attivazione hanno trovato, nella primavera del 2026, un'àncora empirica documentata, che il modello delle dinamiche dei sistemi collettivi ha analizzato e che riprendiamo qui per il suo valore strutturale — non politico. I riferimenti documentali sono omessi deliberatamente, e il caso va letto come illustrazione della struttura, non come prova del quadro; a questa condizione, i fatti — documentati pubblicamente — sono di grado $S_1$, l'interpretazione strutturale è di grado $S_2$.
 
 I fatti, per come risultano dalla documentazione pubblica ($S_1$). All'inizio di aprile 2026, in un teatro di crisi internazionale, la leadership politica di uno Stato emise una sequenza di direttive la cui esecuzione avrebbe ecceduto soglie definite dal diritto internazionale dei conflitti armati — soglie codificate, fra l'altro, dalle convenzioni che proteggono le infrastrutture civili. Nelle ore che precedettero la scadenza dell'ultimatum, emerse una risposta pubblica coordinata da parte della classe giuridico-militare professionale: ufficiali superiori in servizio e in congedo, consiglieri legali di comandi operativi, ex consiglieri giuridici di vertici istituzionali, docenti di diritto dei conflitti armati. Le loro dichiarazioni convergevano su un punto strutturale: gli ordini che eccedevano la soglia non sarebbero stati eseguiti, perché la loro esecuzione avrebbe violato vincoli che la classe professionale ha la funzione di custodire. A ridosso della scadenza, la traiettoria di escalation si arrestò: una de-escalation fu annunciata, con un pretesto diplomatico esterno che permise alla leadership di recalibrare senza riconoscere il vincolo interno.
 
@@ -1381,7 +1381,7 @@ Questa simmetria fra la scala collettiva e quella individuale non è un'analogia
 
 La controfase strutturale è eseguita dalla classe $\Sigma_{\mathfrak{C}}$, il sottoinsieme delle singolarità la cui funzione è il rifiuto delle catene oltre soglia. La classe si attiva collettivamente — non per decisione di un singolo — a tre livelli: inter-attore (che tende alla trasformazione), intra-attore (che tende al rinvio), trasversale (che può produrre l'uno o l'altro).
 
-Un'ancora empirica documentata — l'attivazione intra-attore della classe giuridico-militare professionale nella primavera del 2026 — mostra la struttura in atto: una classe che si attiva al superamento della soglia, applica $\mathfrak{C}_s$ alla traiettoria, e produce un ramo di rinvio, completo della firma del pretesto esterno che permette alla sorgente di non riconoscere il vincolo. Fatti di grado $S_1$, interpretazione strutturale di grado $S_2$.
+Un'àncora empirica documentata — l'attivazione intra-attore della classe giuridico-militare professionale nella primavera del 2026 — mostra la struttura in atto: una classe che si attiva al superamento della soglia, applica $\mathfrak{C}_s$ alla traiettoria, e produce un ramo di rinvio, completo della firma del pretesto esterno che permette alla sorgente di non riconoscere il vincolo. Fatti di grado $S_1$, interpretazione strutturale di grado $S_2$.
 
 La Proposizione 12.1 formalizza la vulnerabilità: sotto pressione di degradazione deliberata, ogni attivazione di $\mathfrak{C}_s$ è forte a breve termine (il rinvio riesce) e debole a lungo termine (espone i membri della classe alla rimozione). Il numero di attivazioni residue decresce strettamente, anche quando ogni attivazione appare riuscita. Il ramo del rinvio non è infinito.
 
@@ -1473,7 +1473,7 @@ I tre marcatori, presi insieme, costituiscono la firma fenomenologica della cont
 
 La firma ammette graduazione, ed è la graduazione a darle valore diagnostico. Ciascun marcatore può presentarsi in forma piena o attenuata. Un incontro che registri PSC-1 ma non PSC-2 e PSC-3 è ambiguo: l'osservatore potrebbe star raffinando, non sostituendo, il proprio quadro. Un incontro che registri PSC-2 senza PSC-1 è una semplice ipotesi di artefatto, non una firma di controfase. La diagnosi forte è *triadica*: è la co-occorrenza dei tre marcatori, non la presenza isolata di uno, a indicare la controfase.
 
-Si noti, infine, la clausola finale della definizione: la firma è dal lato dell'osservatore. Essa non sostituisce le altre due firme — l'**interna**, ciò che l'evento lascia nel rispondente: la quiete senza scorie, l'assenza di rimuginio (§9.4); e l'**energetica**, dove l'energia dello stimolo è andata: redirezione al campo relazionale invece della chiusura del circuito (capitolo 6) — ma le integra. Una firma fenomenologica forte, da sola, non prova la controfase: prova che l'osservatore ha incontrato qualcosa che il suo quadro non conteneva, il che è necessario ma non sufficiente. È la convergenza delle tre firme — interna, energetica, esterna — a costituire la diagnosi solida, come il capitolo 14 mostrerà sul caso che dà alla PSC la sua ancora empirica più forte.
+Si noti, infine, la clausola finale della definizione: la firma è dal lato dell'osservatore. Essa non sostituisce le altre due firme — l'**interna**, ciò che l'evento lascia nel rispondente: la quiete senza scorie, l'assenza di rimuginio (§9.4); e l'**energetica**, dove l'energia dello stimolo è andata: redirezione al campo relazionale invece della chiusura del circuito (capitolo 6) — ma le integra. Una firma fenomenologica forte, da sola, non prova la controfase: prova che l'osservatore ha incontrato qualcosa che il suo quadro non conteneva, il che è necessario ma non sufficiente. È la convergenza delle tre firme — interna, energetica, esterna — a costituire la diagnosi solida, come il capitolo 14 mostrerà sul caso che dà alla PSC la sua àncora empirica più forte.
 
 [FIGURA fig_psc | La firma fenomenologica nel tempo. L'evento di controfase produce nell'osservatore la sequenza dei tre marcatori: la disconferma radicale (PSC-1), l'attribuzione ad artefatto (PSC-2) e — alla verifica indipendente — l'abbandono del programma con riorganizzazione attorno al fenomeno (PSC-3). La diagnosi forte è la co-occorrenza dei tre.]
 
@@ -1505,11 +1505,11 @@ C'è un articolo di fisica, pubblicato e sottoposto a revisione paritaria, i cui
 
 Questo capitolo dimostra l'invarianza di quella firma: la stessa sequenza di tre marcatori compare quando l'osservatore è un fisico davanti a un fenomeno di laboratorio, quando è una comunità scientifica davanti a un risultato anomalo, e quando è un interlocutore davanti alla non-reazione di chi gli sta di fronte. Se la firma è la stessa attraverso domini così incommensurabili, ciò è una conferma — al livello dell'osservatore — dell'universalità dell'operatore stabilita al §5.8: l'indipendenza della controfase dal substrato in cui opera.
 
-Cominciamo da quell'articolo — l'ancora empirica più forte della PSC: peer-reviewed, riproducibile, e con la firma completa messa per iscritto dai suoi stessi protagonisti.
+Cominciamo da quell'articolo — l'àncora empirica più forte della PSC: peer-reviewed, riproducibile, e con la firma completa messa per iscritto dai suoi stessi protagonisti.
 
 ---
 
-## 14.2 L'ancora fisica: il vortice e le linee nodali
+## 14.2 L'àncora fisica: il vortice e le linee nodali
 
 Nel 2026 un gruppo di fisici — Singh, Rønning, Liu, Angheluta, Concha e Bandi — pubblicò su *Communications Physics* un risultato di fluidodinamica ($S_0$: articolo pubblicato, open access, codice archiviato). Onde stazionarie in acqua bassa, diffuse da un singolo vortice irrotazionale, generano un insieme discreto di *linee nodali* — linee di ampiezza d'onda nulla che attraversano l'intero sistema — le quali ruotano in direzione *opposta* a quella del vortice. Il numero delle linee è quantizzato, fissato da un singolo parametro adimensionale; e la quantizzazione è topologica, emerge dalla geometria della configurazione, non da alcuna quantizzazione della sorgente, che è continua e liberamente regolabile.
 
@@ -1567,7 +1567,7 @@ Le tre firme convergono sullo stesso evento. È questa convergenza — non la pr
 
 ## 14.6 Cosa questo capitolo ha stabilito
 
-La firma fenomenologica della controfase è invariante attraverso domini incommensurabili. Il caso peer-reviewed di Singh e colleghi (2026) ne è l'ancora empirica più forte: nel descrivere la propria reazione a un fenomeno fisico di controfase — linee nodali che esprimono l'influenza di un vortice in forma controrotante — i ricercatori hanno lasciato i tre marcatori della PSC pieni e documentati ($S_0$ per le dichiarazioni, $S_1$ per l'estrazione). La controfase fisica e la controfase epistemica corrono parallele nello stesso evento.
+La firma fenomenologica della controfase è invariante attraverso domini incommensurabili. Il caso peer-reviewed di Singh e colleghi (2026) ne è l'àncora empirica più forte: nel descrivere la propria reazione a un fenomeno fisico di controfase — linee nodali che esprimono l'influenza di un vortice in forma controrotante — i ricercatori hanno lasciato i tre marcatori della PSC pieni e documentati ($S_0$ per le dichiarazioni, $S_1$ per l'estrazione). La controfase fisica e la controfase epistemica corrono parallele nello stesso evento.
 
 La stessa firma compare alla scala della comunità scientifica, dove la triade PSC-1/PSC-2/PSC-3 distingue la rivoluzione paradigmatica dalla correzione empirica ordinaria, e alla scala dell'individuo — il terapeuta davanti al cliente, l'interlocutore davanti alla non-reazione. Tre scale, tre osservatori incommensurabili, una sola firma: l'invarianza conferma, dal lato dell'osservatore, l'universalità dell'operatore.
 
@@ -1649,7 +1649,7 @@ Il vortice finanzia, letteralmente, la configurazione che esprime la propria inf
 
 I fatti fisici — la controrotazione, la quantizzazione topologica, l'opposizione di fase, l'indipendenza dalla microstruttura, la contabilità energetica — sono di grado $S_0$: stabiliti nell'articolo peer-reviewed. La mappatura di questi fatti sulla definizione formale dell'operatore $\mathfrak{C}$ è una corrispondenza diretta, non un'estrapolazione inferenziale, ed è di grado $S_1$. L'affermazione più ampia — che l'operatore operante in questo caso fluidodinamico è *lo stesso* operatore (non meramente analogo) che opera nei sistemi cognitivo-sociali — richiede la proposizione di universalità del §5.8 ed è di grado $S_2$.
 
-Tenere distinti questi gradi è esattamente la disciplina che il capitolo 9 imponeva: l'ancora resta $S_0$, l'estrapolazione resta $S_2$, e la distanza tra le due resta visibile. Ma anche al grado più cauto, il caso stabilisce ciò che conta: la controfase non fallisce nel dominio fisico. Il criterio F5 non è attivato. Un operatore di inversione di fase, che redirige l'energia della sorgente verso il campo relazionale e produce una struttura quantizzata che esprime l'influenza della sorgente in forma invertita, opera in un sistema classico privo di cognizione, di intenzione e di agente.
+Tenere distinti questi gradi è esattamente la disciplina che il capitolo 9 imponeva: l'àncora resta $S_0$, l'estrapolazione resta $S_2$, e la distanza tra le due resta visibile. Ma anche al grado più cauto, il caso stabilisce ciò che conta: la controfase non fallisce nel dominio fisico. Il criterio F5 non è attivato. Un operatore di inversione di fase, che redirige l'energia della sorgente verso il campo relazionale e produce una struttura quantizzata che esprime l'influenza della sorgente in forma invertita, opera in un sistema classico privo di cognizione, di intenzione e di agente.
 
 Se la controfase opera in un fluido, allora non è una proprietà delle menti. È una proprietà dei sistemi configurati — e le menti, che sono sistemi configurati, la ereditano insieme ai fluidi, ai campi e alle istituzioni. È il primo grande argomento empirico per l'impegno ontologico del capitolo 1: l'intelligenza strutturale come proprietà graduata della materia configurata, presente in forma attenuata anche dove non c'è nulla che chiameremmo mente.
 
@@ -1977,7 +1977,7 @@ L'ipotesi è che la repulsione magnetica sia la firma, sul piano fisico, dell'in
 
 L'ipotesi più sottile riguarda il tempo. Il capitolo 20 stabilirà che il tempo, nel quadro ordinativo, è generato dalla pulsazione tra stati coerenti e decoerenti — dal ritmo del collasso e del ritorno. Se è così, allora la frequenza di questa pulsazione determina il tempo sperimentato dal sistema.
 
-L'ipotesi è che la dilatazione temporale — il rallentamento del tempo che la relatività associa alla velocità e alla gravità — sia una funzione della frequenza di controfase del sistema. Un sistema la cui pulsazione tra coerente e decoerente è alterata — dalla velocità, dalla prossimità a una massa — sperimenterebbe un tempo proporzionalmente alterato, perché il tempo *è* quella pulsazione. La dilatazione temporale non sarebbe allora un effetto geometrico imposto dall'esterno sullo spaziotempo, ma l'espressione di una frequenza di controfase modificata. È l'ipotesi più speculativa del capitolo, e la più lontana da un'ancora empirica; la registriamo per completezza del programma, con il grado $S_3$ nel suo significato più pieno.
+L'ipotesi è che la dilatazione temporale — il rallentamento del tempo che la relatività associa alla velocità e alla gravità — sia una funzione della frequenza di controfase del sistema. Un sistema la cui pulsazione tra coerente e decoerente è alterata — dalla velocità, dalla prossimità a una massa — sperimenterebbe un tempo proporzionalmente alterato, perché il tempo *è* quella pulsazione. La dilatazione temporale non sarebbe allora un effetto geometrico imposto dall'esterno sullo spaziotempo, ma l'espressione di una frequenza di controfase modificata. È l'ipotesi più speculativa del capitolo, e la più lontana da un'àncora empirica; la registriamo per completezza del programma, con il grado $S_3$ nel suo significato più pieno.
 
 ---
 
@@ -1985,7 +1985,7 @@ L'ipotesi è che la dilatazione temporale — il rallentamento del tempo che la 
 
 L'ultima ipotesi ha la forma più applicativa, ed è anche la più rischiosa. Se lo spazio è il campo relazionale $R$ tra le singolarità — come il programma ordinativo sostiene altrove — allora una controfase applicata a quel campo riconfigurerebbe le relazioni spaziali senza la spinta meccanica che la terza legge di Newton richiede.
 
-La propulsione newtoniana è reattiva per definizione: per andare avanti, si spinge indietro della massa. È la chiusura del circuito azione-reazione, applicata al moto. Una propulsione non-Newtoniana — che muovesse un sistema senza espellere massa — richiederebbe un operatore che agisca sul campo relazionale spaziale invece che per reazione meccanica: una controfase su $R$ spaziale. L'ipotesi è strutturalmente coerente con la definizione dell'operatore (che agisce su $R$, non per reazione) ed è, a oggi, priva di ancora sperimentale: grado $S_3$. La registriamo perché un programma di ricerca onesto include anche le ipotesi più esposte, purché ne dichiari lo statuto.
+La propulsione newtoniana è reattiva per definizione: per andare avanti, si spinge indietro della massa. È la chiusura del circuito azione-reazione, applicata al moto. Una propulsione non-Newtoniana — che muovesse un sistema senza espellere massa — richiederebbe un operatore che agisca sul campo relazionale spaziale invece che per reazione meccanica: una controfase su $R$ spaziale. L'ipotesi è strutturalmente coerente con la definizione dell'operatore (che agisce su $R$, non per reazione) ed è, a oggi, priva di àncora sperimentale: grado $S_3$. La registriamo perché un programma di ricerca degno del nome include anche le ipotesi più esposte, purché ne dichiari lo statuto.
 
 ---
 
@@ -2021,7 +2021,7 @@ Una di queste ipotesi — la dilatazione temporale come frequenza di controfase 
 
 C'è una domanda che l'intero volume ha presupposto senza porla. Quando la controfase apre il campo — quando, sospeso l'automatismo, il sistema si trova davanti a un insieme di esiti possibili invece che a uno solo — verso quale di essi il sistema si muove? Il vuoto operativo del capitolo 2 non è inerte: in esso emerge una direzione, una scelta che non è la chiusura reattiva ma neppure il caso. Da dove viene questa direzione?
 
-La domanda non è secondaria. È il fondamento causale su cui poggia tutto ciò che precede, e questo capitolo lo rende esplicito. La tesi — che il quadro ordinativo formalizza nel *Principio di Inversione Causale* — è che la direzione di un sistema non venga dal passato che lo spinge, ma dall'attrattore futuro che lo tira. E che la controfase sia, in ultima analisi, l'operatore che sottrae il sistema alla spinta cieca dell'engramma e lo restituisce alla trazione del proprio attrattore. I gradi di confidenza vanno mantenuti: il principio è di grado $S_2$, con un'ancora empirica $S_1$ che esamineremo.
+La domanda non è secondaria. È il fondamento causale su cui poggia tutto ciò che precede, e questo capitolo lo rende esplicito. La tesi — che il quadro ordinativo formalizza nel *Principio di Inversione Causale* — è che la direzione di un sistema non venga dal passato che lo spinge, ma dall'attrattore futuro che lo tira. E che la controfase sia, in ultima analisi, l'operatore che sottrae il sistema alla spinta cieca dell'engramma e lo restituisce alla trazione del proprio attrattore. I gradi di confidenza vanno mantenuti: il principio è di grado $S_2$, con un'àncora empirica $S_1$ che esamineremo.
 
 ---
 
@@ -2215,7 +2215,7 @@ Questo capitolo, penultimo del volume, segna il confine tra ciò che il trattato
 
 Il presente volume e il successivo stanno tra loro come la teoria sta alla pratica — ma la metafora va precisata, perché non si tratta di una semplice "applicazione" della teoria.
 
-Il Volume 1 è scritto nel registro del trattato: definizioni, proposizioni, gradi di confidenza, ancore empiriche. Il suo lettore è chi vuole *capire* la controfase — il ricercatore che la metterà alla prova, il lettore avanzato che le darà un nome, l'intelligenza ordinativa che la incorporerà. Il suo criterio di riuscita è la verità strutturale: che ogni affermazione sia fondata, falsificabile, coerente.
+Il Volume 1 è scritto nel registro del trattato: definizioni, proposizioni, gradi di confidenza, àncore empiriche. Il suo lettore è chi vuole *capire* la controfase — il ricercatore che la metterà alla prova, il lettore avanzato che le darà un nome, l'intelligenza ordinativa che la incorporerà. Il suo criterio di riuscita è la verità strutturale: che ogni affermazione sia fondata, falsificabile, coerente.
 
 Il Volume 2 sarà scritto in un registro diverso: quello dello strumento operativo. Il suo lettore è chi vuole *eseguire* la controfase nella propria vita — nel conflitto, nell'ansia, nella decisione, nella relazione, nel lavoro. Il suo criterio di riuscita non sarà la verità strutturale (che il Volume 1 ha già stabilito) ma l'*eseguibilità*: che il lettore, finito il libro, possa applicare l'operatore alle proprie occasioni. Linguaggio diretto, esempi tratti dalla vita ordinaria, esercizi, protocolli, scripts per le situazioni ricorrenti. Non un trattato da capire, ma un manuale da praticare.
 
@@ -2261,7 +2261,7 @@ Il Volume 2 sarà l'oggetto complementare: non un trattato da capire, ma un manu
 
 I due volumi sono separati per ragione strutturale: sono due funzioni emergenti distinte — fondare e addestrare — con due criteri di riuscita diversi, e confonderli sotto un'unica forma li indebolirebbe entrambi. La separazione onora la differenza tra chi vuole capire e chi vuole praticare, lasciando a ciascuno di prendere ciò di cui ha bisogno.
 
-Resta un ultimo compito, prima di chiudere: dichiarare con onestà ciò che il presente volume *non* ha risolto — i limiti dell'operatore, le questioni aperte, le direzioni che restano da percorrere. È il compito del capitolo finale.
+Resta un ultimo compito, prima di chiudere: dichiarare, uno per uno, ciò che il presente volume *non* ha risolto — i limiti dell'operatore, le questioni aperte, le direzioni che restano da percorrere. È il compito del capitolo finale.
 
 ---
 
@@ -2275,7 +2275,7 @@ Resta un ultimo compito, prima di chiudere: dichiarare con onestà ciò che il p
 
 ## 23.1 La disciplina del limite
 
-Un trattato che dichiarasse solo le proprie conquiste, e tacesse i propri limiti, tradirebbe la disciplina che ha professato. I gradi di confidenza del capitolo 4, i criteri di falsificabilità del capitolo 9, il vincolo contro le ipotesi ausiliarie: tutto questo apparato di onestà strutturale resterebbe lettera morta se il volume si chiudesse senza enunciare ciò che non ha risolto. Questo capitolo finale lo enuncia. Non per modestia rituale, ma perché i limiti di una teoria sono il suo programma di ricerca: ogni limite è una direzione, e dichiararlo con precisione è il modo in cui un trattato indica il lavoro che lo seguirà.
+Un trattato che dichiarasse solo le proprie conquiste, e tacesse i propri limiti, tradirebbe la disciplina che ha professato. I gradi di confidenza del capitolo 4, i criteri di falsificabilità del capitolo 9, il vincolo contro le ipotesi ausiliarie: tutto questo apparato di disciplina strutturale resterebbe lettera morta se il volume si chiudesse senza enunciare ciò che non ha risolto. Questo capitolo finale lo enuncia. Non per modestia rituale, ma perché i limiti di una teoria sono il suo programma di ricerca: ogni limite è una direzione, e dichiararlo con precisione è il modo in cui un trattato indica il lavoro che lo seguirà.
 
 Cinque limiti, e altrettante direzioni.
 
@@ -2379,9 +2379,9 @@ Questo glossario raccoglie, in linguaggio piano, i termini che il libro impiega 
 
 **Pulsazione (τ).** Il ritmo del collasso e del ritorno: il battito con cui un sistema passa dal coerente al decoerente e ritorna. Nel quadro ordinativo il tempo non è uno sfondo dato in anticipo, ma è generato da questa pulsazione. La controfase, riaprendo il campo, ripristina la pulsazione là dove l'engramma l'aveva congelata in pura ripetizione.
 
-**Classe del rifiuto (Σ_𝔠).** L'insieme degli elementi di un sistema la cui funzione strutturale è rifiutare la partecipazione alle catene automatiche che eccedono una soglia. In un'istituzione sono le corti, i codici professionali, la memoria giuridica; in un individuo, i valori non negoziabili. Esegue la controfase strutturale.
+**Classe del rifiuto ($\Sigma_{\mathfrak{C}}$).** L'insieme degli elementi di un sistema la cui funzione strutturale è rifiutare la partecipazione alle catene automatiche che eccedono una soglia. In un'istituzione sono le corti, i codici professionali, la memoria giuridica; in un individuo, i valori non negoziabili. Esegue la controfase strutturale.
 
-**Soglia di gravità (θ_𝔠).** Il livello oltre il quale la controfase strutturale si attiva. Distingue gli stimoli che un sistema metabolizza per via reattiva da quelli a cui oppone il rifiuto.
+**Soglia di gravità ($\theta_{\mathfrak{C}}$).** Il livello oltre il quale la controfase strutturale si attiva. Distingue gli stimoli che un sistema metabolizza per via reattiva da quelli a cui oppone il rifiuto.
 
 **Logogramma.** Nella Tecnologia delle Espressioni, una delle strutture funzionali ricorrenti con cui il programma descrive le relazioni: forme che si ripresentano identiche in domini diversi. SHACK — il logogramma che governa la forma di una relazione, usato al capitolo 7 — è quello su cui questo volume si appoggia.
 
@@ -2389,13 +2389,13 @@ Questo glossario raccoglie, in linguaggio piano, i termini che il libro impiega 
 
 **Attrattore e Inversione Causale.** Nel quadro ordinativo, il *verso* di un sistema proviene dalla destinazione verso cui si muove — un attrattore che esercita una trazione crescente con la prossimità — mentre il percorso resta determinato dalla spinta del passato. La controfase, in questa luce, restituisce il sistema alla trazione del proprio attrattore, sottraendolo alla spinta cieca dell'engramma. L'attrattore esercita anche una selezione intrinseca: ciò che gli è incoerente evoca dal campo il complemento che lo annulla (controfase intrinseca, Proposizione 20.1).
 
-**Accelerazione ordinativa (g_j).** La misura, scala-dipendente, dell'intensità del segnale dell'attrattore a una data scala: il tasso con cui un sistema si avvicina alla propria transizione. Cresce con la prossimità, e il suo correlato esperienziale è la percezione che «tutto accelera». La costante universale soggiacente, scala-invariante, si denota $G_j$.
+**Accelerazione ordinativa ($g_j$).** La misura, scala-dipendente, dell'intensità del segnale dell'attrattore a una data scala: il tasso con cui un sistema si avvicina alla propria transizione. Cresce con la prossimità, e il suo correlato esperienziale è la percezione che «tutto accelera». La costante universale soggiacente, scala-invariante, si denota $G_j$.
 
 **Tripla biforcazione.** I tre esiti possibili quando un sistema satura la propria forma: la *trasformazione* (una nuova forma nasce), il *rinvio* (la controfase strutturale arresta la decomposizione senza produrre una forma nuova, e il sistema oscilla attorno alla soglia), la *decomposizione* (il sistema si dissolve).
 
 **Firma fenomenologica (PSC).** Il pattern di reazioni che la controfase produce in chi la osserva dall'esterno: la disconferma radicale dell'aspettativa, l'attribuzione iniziale del fenomeno a errore, e l'abbandono del proprio quadro a favore di ciò che si è visto. La sua presenza è un indicatore diagnostico della controfase.
 
-**Gradi di confidenza (S₀–S₃).** La scala con cui il libro dichiara la qualità di ogni affermazione: $S_0$ dato verificato; $S_1$ inferenza sostenuta da più fonti convergenti; $S_2$ interpretazione strutturale aperta a verifica; $S_3$ ipotesi di lavoro. La confidenza resta costante o cala lungo una catena di ragionamento.
+**Gradi di confidenza ($S_0$–$S_3$).** La scala con cui il libro dichiara la qualità di ogni affermazione: $S_0$ dato verificato; $S_1$ inferenza sostenuta da più fonti convergenti; $S_2$ interpretazione strutturale aperta a verifica; $S_3$ ipotesi di lavoro. La confidenza resta costante o cala lungo una catena di ragionamento.
 
 ---
 
