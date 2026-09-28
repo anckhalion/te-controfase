@@ -1,34 +1,86 @@
 cff-version: 1.2.0
-message: "If you use or cite this work, please cite it as below."
+message: "Se usi o citi quest'opera, cita l'edizione che hai letto. / If you use or cite this work, cite the edition you read."
 type: dataset
-title: "La Tecnologia di Controfase — Volume 1: Fondamenti"
+title: "La Tecnologia di Controfase — Volume 1: Fondamenti / The Technology of Controfase — Volume 1: Foundations"
 authors:
   - family-names: "Ghioni"
     given-names: "Fabio"
-version: "1.2"
-date-released: "2026-09-14"
+    orcid: "https://orcid.org/0009-0009-0415-9434"
+date-released: "2026-09-28"
 license: CC-BY-NC-SA-4.0
-doi: "10.5281/zenodo.22542621"
-identifiers:
-  - type: other
-    value: "ISBN 979-12-82603-20-1"
-    description: "Print edition ISBN (Ordinative Sciences Press)"
 repository-code: "https://github.com/anckhalion/te-controfase"
 abstract: >
-  Foundational treatise of the Tecnologia di Controfase series (Ordinative
-  Sciences programme). Counter-phase (controfase) is formalized as a universal
-  ordinative phase-shift operator: definition at two levels (deliberate act and
-  embedded structure), energetic accounting, topology of applicability,
-  execution algorithm, five falsifiability criteria, phenomenological
-  signature, and application across seven domains, with explicit confidence
-  grades (S0-S3). Includes a bilingual (IT/EN) instruction dataset for LoRA
-  fine-tuning. Italian native composition.
+  Repository del trattato fondativo della serie Tecnologia di Controfase (programma
+  delle Scienze Ordinative), in due edizioni. La controfase è formalizzata come
+  operatore ordinativo universale di traslazione di fase: definizione a due livelli
+  (atto deliberato e struttura incorporata), contabilità energetica, topologia di
+  applicabilità, algoritmo di esecuzione, cinque criteri di falsificabilità, firma
+  fenomenologica e applicazione a sette domini, con gradi di confidenza espliciti
+  (S0-S3). Include un dataset di istruzioni bilingue IT/EN per fine-tuning LoRA.
+  —
+  Repository of the foundational treatise of The Technology of Controfase series
+  (Ordinative Sciences programme), in two editions. Controfase is formalised as a
+  universal ordinative phase-shift operator: definition at two levels (the deliberate
+  act and the embedded structure), energetic accounting, topology of applicability,
+  execution algorithm, five falsifiability criteria, phenomenological signature, and
+  application across seven domains, with explicit confidence grades (S0-S3). Includes
+  a bilingual IT/EN instruction dataset for LoRA fine-tuning.
+  —
+  Ogni edizione è composizione nativa nella propria lingua, con identificatori propri:
+  nessuna delle due è traduzione dell'altra. / Each edition is a native composition in
+  its own language, with its own identifiers: neither is a translation of the other.
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22542621"
+    description: "Edizione italiana — concept DOI (risolve sempre all'ultima versione) / Italian edition, concept DOI"
+  - type: doi
+    value: "10.5281/zenodo.23020283"
+    description: "Edizione inglese / English edition"
+  - type: other
+    value: "ISBN 979-12-82603-20-1"
+    description: "Edizione italiana a stampa, Ordinative Sciences Press / Italian print edition"
+  - type: other
+    value: "ISBN 979-12-82603-22-5"
+    description: "Edizione inglese a stampa, Ordinative Sciences Press / English print edition"
 keywords:
   - controfase
   - counter-phase
   - ordinative sciences
   - technology of expressions
   - reactive systems
-  - engram
+  - entropic engram
   - phase-shift operator
   - falsifiability
+references:
+  - type: book
+    title: "La Tecnologia di Controfase — Volume 1: Fondamenti"
+    authors:
+      - family-names: "Ghioni"
+        given-names: "Fabio"
+        orcid: "https://orcid.org/0009-0009-0415-9434"
+    publisher:
+      name: "Ordinative Sciences Press"
+    year: 2026
+    languages:
+      - ita
+    version: "1.2"
+    doi: "10.5281/zenodo.22756406"
+    isbn: "979-12-82603-20-1"
+    license: CC-BY-NC-SA-4.0
+    abstract: "Edizione italiana, composizione nativa. 237 pagine, 23 capitoli in sei parti, glossario e quattro appendici."
+  - type: book
+    title: "The Technology of Controfase — Volume 1: Foundations"
+    authors:
+      - family-names: "Ghioni"
+        given-names: "Fabio"
+        orcid: "https://orcid.org/0009-0009-0415-9434"
+    publisher:
+      name: "Ordinative Sciences Press"
+    year: 2026
+    languages:
+      - eng
+    version: "1.0"
+    doi: "10.5281/zenodo.23020283"
+    isbn: "979-12-82603-22-5"
+    license: CC-BY-NC-SA-4.0
+    abstract: "English edition, a native composition rather than a translation. 237 pages, 23 chapters in six parts, glossary and four appendices."

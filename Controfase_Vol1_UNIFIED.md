@@ -1451,7 +1451,7 @@ Nel dominio cognitivo-sociale, PSC-2 ha una forma riconoscibile: l'insultante ch
 
 Il terzo marcatore registra la ristrutturazione che segue la promozione dell'osservazione da artefatto a fenomeno. Il programma attivo — organizzato attorno al quadro predittivo che si è rivelato inadeguato — viene abbandonato. Un nuovo programma si organizza attorno al fenomeno. Il quadro non viene aumentato o corretto: viene *sostituito* da un quadro che parte dal fenomeno e procede verso l'esterno.
 
-La firma linguistica di PSC-3 è l'abbandono dichiarato: «abbiamo lasciato perdere tutto e ci siamo messi a lavorare sulla matematica di questo comportamento». Il programma precedente non è menzionato come corretto: è menzionato come abbandonato. E lo stato stabilizzato che segue la riorganizzazione ha anch'esso una firma: l'orientamento verso la non-prevedibilità del sistema come *generatore* di nuovi fenomeni, anziché come difetto da eliminare. Quando un osservatore, dopo PSC-3, dice di qualcosa che non riesce ancora a prevedere «non sappiamo cosa vedremo, ed è esattamente questo che lo rende interessante», ha completato la transizione: ha interiorizzato l'apertura del campo che la controfase ha prodotto.
+La firma linguistica di PSC-3 è l'abbandono dichiarato: «abbiamo lasciato perdere tutto e abbiamo ricavato in fretta la matematica che sta sotto al modo in cui si formano». Il programma precedente non è menzionato come corretto: è menzionato come abbandonato. E lo stato stabilizzato che segue la riorganizzazione ha anch'esso una firma: l'orientamento verso la non-prevedibilità del sistema come *generatore* di nuovi fenomeni, anziché come difetto da eliminare. Quando un osservatore, dopo PSC-3, dice di qualcosa che non riesce ancora a prevedere «non sappiamo ancora cosa vedremo, ed è esattamente questo che rende la cosa degna di essere fatta», ha completato la transizione: ha interiorizzato l'apertura del campo che la controfase ha prodotto.
 
 Sul piano strutturale, PSC-3 è la firma di un sistema reattivo che ha riconosciuto l'inadeguatezza della propria configurazione precedente e si sta riorganizzando. È, al livello epistemico, l'analogo della promozione $f \to \mathfrak{C}[f]$ della Proposizione 5.1: l'osservatore non corregge il proprio quadro, lo riscrive. La controfase, incontrata dall'esterno, ha indotto nell'osservatore la stessa trasformazione che essa produce nel sistema che la esegue.
 
@@ -1519,7 +1519,7 @@ Il risultato fisico è, di per sé, un'istanza di controfase in un sistema class
 
 **PSC-2, l'attribuzione ad artefatto.** Singh, co-primo autore, riferisce che quando le linee nodali apparvero per la prima volta, il gruppo le interpretò come artefatto sperimentale ($S_0$). Il fenomeno non fu accettato come genuino alla prima osservazione; fu respinto come spurio. Solo quando simulazioni numeriche indipendenti produssero le stesse strutture, l'osservazione fu promossa da artefatto a fatto. È la sequenza esatta di PSC-2: respingimento provvisorio, test indipendente, promozione.
 
-**PSC-3, l'abbandono del programma.** Singh riferisce: «abbiamo lasciato perdere tutto e ci siamo subito messi a ricavare la matematica dietro questo comportamento» ($S_0$). Il programma di ricerca attivo fu abbandonato; un nuovo programma si organizzò attorno al fenomeno. E lo stato stabilizzato che seguì ha la firma che il capitolo 13 ha descritto: Bandi, autore senior, commentando l'estensione futura dell'esperimento, dice «non sappiamo ancora cosa vedremo, ed è esattamente questo che lo rende interessante» — l'orientamento verso la non-prevedibilità come generatore di fenomeni, firma dello stato post-PSC-3.
+**PSC-3, l'abbandono del programma.** Singh riferisce: «abbiamo lasciato perdere tutto e abbiamo ricavato in fretta la matematica che sta sotto al modo in cui si formano» ($S_0$). Il programma di ricerca attivo fu abbandonato; un nuovo programma si organizzò attorno al fenomeno. E lo stato stabilizzato che seguì ha la firma che il capitolo 13 ha descritto: Bandi, autore senior, commentando l'estensione futura dell'esperimento, dice «non sappiamo ancora cosa vedremo, ed è esattamente questo che rende la cosa degna di essere fatta» — l'orientamento verso la non-prevedibilità come generatore di fenomeni, firma dello stato post-PSC-3.
 
 I tre marcatori sono presenti, pieni, documentati nel linguaggio pubblicato dei ricercatori ($S_1$: estrazione dei marcatori dal testo). La diagnosi triadica è soddisfatta. I fisici, nel descrivere la loro reazione a un fenomeno fisico di controfase, hanno esibito una controfase epistemica — e l'hanno messa a verbale.
 
@@ -2470,7 +2470,7 @@ Registro completo dei simboli usati nel volume, organizzati per categoria. La co
 | F4 | La promozione $\mathfrak{C}_d \to \mathfrak{C}_s$ | 9 |
 | F5 | L'universalità dell'operatore | 9 |
 
-## Gradi di confidenza (scala SVP)
+## Gradi di confidenza (scala $S_0$–$S_3$)
 
 | Grado | Significato |
 |---|---|
@@ -2503,6 +2503,10 @@ Gli altri simboli ($\Sigma$, $R$, $\Phi$, $\Phi^*$, $\rho$, $\theta$, $\tau$, $g
 Raccolta in forma compatta degli enunciati formali del volume, con il riferimento al capitolo in cui sono stabiliti. È pensata come riferimento rapido e come verifica di coerenza interna.
 
 ## Definizioni
+
+> **Definizione 1.1 (Intelligenza strutturale).** L'intelligenza strutturale è la capacità di un sistema configurato di rispondere a uno stimolo in un modo orientato verso il proprio equilibrio dinamico — o verso quello del sistema più ampio di cui è parte — piuttosto che verso il completamento del circuito reattivo newtoniano. *(Cap. 1)*
+
+> **Definizione 2.1 (Engramma entropico).** L'engramma entropico è la stabilizzazione per inerzia di un circuito stimolo-risposta, tale che la funzione di transizione $f$ si applica automaticamente allo stato $s_t$ producendo $s_{t+1}$ senza che l'identità del sistema partecipi alla transizione. L'engramma non è un contenuto: è un *ordine temporale* — il modo in cui uno stato genera il successivo. *(Cap. 2)*
 
 > **Definizione 5.1 (Operatore).** Un operatore è una funzione che agisce su uno stato o su una struttura e ne modifica l'ordine interno, non il contenuto. *(Cap. 5)*
 
@@ -2657,6 +2661,8 @@ Aharonov, Y., e D. Bohm. «Significance of Electromagnetic Potentials in the Qua
 Berry, M. V., R. G. Chambers, M. D. Large, C. Upstill, e J. C. Walmsley. «Wavefront Dislocations in the Aharonov-Bohm Effect and Its Water Wave Analogue.» *European Journal of Physics* 1, n. 3 (1980): 154–162.
 
 Singh, A., J. Rønning, C.-C. Liu, L. Angheluta, A. Concha, e M. M. Bandi. «Topology Made Visible through Standing Waves in a Spinning Fluid.» *Communications Physics* 9 (2026): articolo 123. DOI: 10.1038/s42005-026-02603-w. Codice archiviato: DOI 10.5281/zenodo.18652566.
+
+Okinawa Institute of Science and Technology Graduate University. «Water Simulation of Famous Quantum Effect Reveals Unexpected Wave Patterns.» Comunicato stampa, 20 aprile 2026. https://www.eurekalert.org/news-releases/1124454. *(Fonte delle dichiarazioni dei ricercatori citate nei capitoli 13 e 14.)*
 
 ### Causalità, tempo, retrocausalità
 
