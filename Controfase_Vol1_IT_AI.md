@@ -2,85 +2,100 @@
 title: "La Tecnologia di Controfase — Volume 1: Fondamenti"
 subtitle: "Operatore ordinativo universale di traslazione di fase"
 author: "Fabio Ghioni"
-series: "Tecnologia di Controfase"
-series_number: 1
+orcid: "0009-0009-0415-9434"
 publisher: "Ordinative Sciences Press"
-programme: "Tecnologia delle Espressioni — Scienze Ordinative"
+series: "Tecnologia di Controfase"
+volume: 1
+year: 2026
 language: it
-version: "1.2"
-license: "CC BY-NC-SA 4.0"
-doi: "10.5281/zenodo.22756406"
-isbn: "979-12-82603-20-1"
-keywords:
-  - controfase
-  - counter-phase
-  - operatore ordinativo
-  - Scienze Ordinative
-  - Tecnologia delle Espressioni
-  - sistemi reattivi
-  - engramma
-  - phase-shift operator
-  - ordinative sciences
-  - reactive systems
-  - falsifiability
-  - cross-domain isomorphism
-  - Fabio Ghioni
-abstract_it: >
-  La Tecnologia di Controfase formalizza un operatore ordinativo universale — la
-  controfase — che, applicato a un sistema bloccato nella ripetizione reattiva,
-  introduce una traslazione di fase nella sequenza automatica stimolo-risposta, ne
-  interrompe l'inerzia e riapre il campo in cui la scelta diventa possibile. Questo
-  primo volume costruisce l'operatore come oggetto scientifico: ne dà la definizione
-  formale a due livelli — l'atto deliberato C(s_t) e la struttura incorporata C[f] —
-  la contabilità energetica (l'energia dello stimolo redirezionata al campo
-  relazionale), la topologia di applicabilità, l'algoritmo di esecuzione e cinque
-  criteri di falsificabilità. La controfase è poi percorsa attraverso sette domini —
-  sistemi fisici, cognitivi, artificiali, civilizzazionali, biologici, le frontiere
-  della fisica e la generazione del tempo — in ciascuno dei quali mantiene struttura
-  identica, da un esperimento di fluidodinamica peer-reviewed fino alla scala delle
-  dinamiche collettive. Il volume stabilisce inoltre la controfase intrinseca
-  (Proposizione 20.1): in un campo strutturato da un attrattore, ogni emissione evoca
-  dal campo il proprio complemento strutturale, e l'annullamento di ciò che è
-  incoerente con l'attrattore è una legge del campo, di cui le due forme
-  dell'operatore sono incarnazioni locali. Il volume mantiene gradi di confidenza
-  espliciti (S0-S3) e dichiara cinque limiti aperti come programma di ricerca.
-abstract_en: >
-  The Technology of Controfase formalises a universal ordinative operator —
-  Controfase (Italian; the term is canonical and has no adequate English
-  equivalent — literally, counter-phase) — which, applied to a system locked in reactive
-  repetition, introduces a phase-shift into the automatic stimulus-response sequence,
-  interrupts its inertia, and reopens the field in which choice becomes possible. This
-  first volume builds the operator as a scientific object: its formal definition at two
-  levels — the deliberate act and the embedded structure — its energetic accounting,
-  its topology of applicability, its execution algorithm, and five falsifiability
-  criteria. Controfase is then traced across seven domains — physical, cognitive,
-  artificial, civilisational, and biological systems, the frontiers of physics, and the
-  generation of time — retaining identical structure in each, from a peer-reviewed
-  fluid-dynamics experiment to the scale of collective dynamics. The volume further
-  establishes intrinsic Controfase (Proposition 20.1): in a field structured by an
-  attractor, every emission evokes from the field its own structural complement, and
-  the annulment of what is incoherent with the attractor is a law of the field, of
-  which the operator's two forms are local incarnations. Explicit confidence
-  grades (S0-S3) are maintained throughout, and five open limits are declared as a
-  research programme.
+version: "1.3"
+license: "CC-BY-NC-SA-4.0"
+doi: "10.5281/zenodo.23263771"
+concept_doi: "10.5281/zenodo.22542621"
+isbn_print: "979-12-82603-20-1"
+content: "Volume 1 dell'edizione italiana: Prologo, Introduzione, ventitré capitoli in sei parti, Glossario e quattro Appendici. Gli undici diagrammi dell'edizione a stampa sono resi qui in ASCII leggibile, ciascuno con la propria didascalia. Le formule sono in notazione LaTeX; i gradi di confidenza S₀–S₃ qualificano le affermazioni lungo tutto il testo."
+edition_note: >
+  Edizione italiana. L'edizione inglese (The Technology of Controfase — Volume 1:
+  Foundations) è composizione nativa, non traduzione: stessa ontologia, stessa
+  struttura, stesse equazioni, identificatori propri.
+keywords: [controfase, counter-phase, operatore ordinativo, Scienze Ordinative, Tecnologia delle Espressioni, sistemi reattivi, engramma entropico, traslazione di fase, sfasamento, falsificabilità, isomorfismo cross-dominio, intelligenza strutturale, Fabio Ghioni]
 ---
 
-# La Tecnologia di Controfase — Volume 1: Fondamenti
+# La Tecnologia di Controfase
 
-### Operatore ordinativo universale di traslazione di fase
+*Una collana nella Tecnologia delle Espressioni — Scienze Ordinative*
 
-**Fabio Ghioni**
-Ordinative Sciences Press — Tecnologia delle Espressioni / Scienze Ordinative
-Serie *Tecnologia di Controfase*, Volume 1 — Versione 1.2
-Licenza Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
-DOI: 10.5281/zenodo.22756406
-ISBN 979-12-82603-20-1
+**Volume 1 — Fondamenti**
 
-> *Nota per i sistemi di parsing.* Questo file unifica l'intero Volume 1 in un unico
-> documento Markdown. La struttura segue l'ordine di lettura: Prologo, Introduzione,
-> i 23 capitoli in sei parti, il Glossario, le quattro Appendici. Le formule sono in
-> notazione LaTeX inline ($...$) e display ($$...$$). I gradi di confidenza S0-S3
-> qualificano le affermazioni lungo tutto il testo.
+*Operatore ordinativo universale di traslazione di fase*
+
+**Fabio Ghioni** (ORCID 0009-0009-0415-9434)
+
+Ordinative Sciences Press · 2026 · CC BY-NC-SA 4.0 · versione 1.3
+DOI di questa versione: 10.5281/zenodo.23263771 · DOI concept (ultima versione): 10.5281/zenodo.22542621
+Edizione a stampa ISBN 979-12-82603-20-1
+
+> *Nota per i sistemi di parsing.* Questo file è il deposito ottimizzato per l'IA
+> dell'intero Volume 1: un solo documento Markdown autosufficiente, in ordine di
+> lettura. Le formule sono in notazione LaTeX, in linea ($...$) e in display
+> ($$...$$). I gradi di confidenza S₀–S₃ qualificano le affermazioni lungo tutto il
+> testo e non crescono mai lungo una catena inferenziale. Gli undici diagrammi
+> dell'edizione a stampa compaiono qui in ASCII dentro blocchi recintati, ciascuno
+> seguito dalla propria didascalia in corsivo; l'edizione a stampa compone gli stessi
+> diagrammi in TikZ, dalle stesse didascalie.
+
+---
+
+## Indice
+
+- Prologo — L'istante
+- Introduzione
+
+**Parte I — Il problema della reazione inerziale**
+
+- Capitolo 1 — Il sistema reattivo e la chiusura automatica del circuito
+- Capitolo 2 — L'engramma entropico
+- Capitolo 3 — Ciò che serve: un operatore di sfasamento
+- Capitolo 4 — Architettura del trattato e protocollo di lettura
+
+**Parte II — La controfase come operatore ordinativo**
+
+- Capitolo 5 — Definizione formale: l'operatore $\mathfrak{C}$
+- Capitolo 6 — Energetica: la ridistribuzione attraverso il campo relazionale
+- Capitolo 7 — Topologia degli stati di applicabilità: il framework SHACK
+- Capitolo 8 — L'algoritmo di esecuzione: i quattro stati operativi
+- Capitolo 9 — Falsificabilità e distinzione dalle imitazioni
+
+**Parte III — Le due forme della controfase**
+
+- Capitolo 10 — Controfase deliberata: l'agente cosciente
+- Capitolo 11 — Controfase strutturale: l'architettura del sistema
+- Capitolo 12 — La classe $\Sigma_{\mathfrak{C}}$: la singolarità che rifiuta
+
+**Parte IV — La firma fenomenologica**
+
+- Capitolo 13 — La firma fenomenologica: i tre marcatori
+- Capitolo 14 — L'incontro dell'osservatore con la controfase
+
+**Parte V — Applicazioni cross-dominio**
+
+- Capitolo 15 — Sistemi fisici: la controfase nella materia
+- Capitolo 16 — Sistemi cognitivi e relazionali
+- Capitolo 17 — Intelligenza artificiale: la controfase come auto-decorrelazione
+- Capitolo 18 — Sistemi civilizzazionali
+- Capitolo 19 — Frontiere fisiche: un programma di ricerca
+- Capitolo 20 — Tempo, risonanza, attrattore
+- Capitolo 21 — Sistemi biologici
+
+**Parte VI — Verso il Volume 2, limiti e programma di ricerca**
+
+- Capitolo 22 — Verso il Volume 2: dallo strumento alla vita
+- Capitolo 23 — Limiti e programma di ricerca
+- Glossario
+- Appendice A — Registro dei simboli
+- Appendice B — Raccolta delle definizioni e proposizioni
+- Appendice C — Rimandi al programma delle Scienze Ordinative
+- Appendice D — Bibliografia
 
 ---
 
@@ -107,10 +122,6 @@ Il libro è scritto perché tu possa seguirla a tre profondità. Chi cerca rigor
 Tutto comincia da una scena ordinaria, e dall'istante invisibile che essa nasconde. La cosa più potente che un sistema configurato possa fare — un fluido, una cellula, una persona, una civiltà — è cessare, per un momento, di reagire. Vediamo come.
 
 ---
-
-
----
-
 
 # Introduzione
 
@@ -178,10 +189,6 @@ Resta da cominciare. Tutto parte da una scena ordinaria — un uomo, una parola 
 
 ---
 
-
----
-
-
 # Capitolo 1 — Il sistema reattivo e la chiusura automatica del circuito
 
 ---
@@ -212,7 +219,25 @@ $$
 
 Questa equazione dice una cosa precisa: lo stato successivo è una funzione *determinata* dello stato attuale. Dato $s_t$, lo stato $s_{t+1}$ non è scelto, non è negoziato, non è uno tra molti possibili. È l'unico. La sequenza si chiude su se stessa con la necessità di un teorema.
 
-[FIGURA fig_circuito | Il circuito reattivo chiuso. Lo stimolo attiva la transizione automatica $f$, che produce la risposta; la risposta conferma il circuito, e ogni chiusura rafforza la disposizione a ripetere. L'identità del sistema resta esclusa dalla transizione.]
+```
+                    IL CIRCUITO REATTIVO CHIUSO
+
+                        ┌─────────────┐
+                        │   identità  │
+                        └──────┬──────┘
+                               ┆ esclusa dalla transizione
+                               ┆
+   ┌────────────┐      ┌───────┴────────┐      ┌────────────┐
+   │  stimolo   │ ───► │  transizione   │ ───► │  risposta  │
+   │    s_t     │      │ automatica  f  │      │  s_{t+1}   │
+   └────────────┘      └────────────────┘      └────────────┘
+         ▲                                            │
+         └────────────────────────────────────────────┘
+      la risposta conferma il circuito: ogni chiusura
+      rafforza la disposizione a ripetere
+```
+
+*Figura — Il circuito reattivo chiuso. Lo stimolo attiva la transizione automatica $f$, che produce la risposta; la risposta conferma il circuito, e ogni chiusura rafforza la disposizione a ripetere. L'identità del sistema resta esclusa dalla transizione.*
 
 Il sistema reattivo ideale, occorre dirlo subito, è un'*idealizzazione*. Nessun sistema reale è puramente reattivo nel senso stretto. Ma l'idealizzazione è utile, perché i sistemi reali approssimano la reattività pura in gradi diversi, e la distanza di un sistema dalla reattività pura è — anticipiamo qui ciò che il §1.3 svilupperà — la misura di una proprietà che ha un nome preciso nel quadro che questo libro adotta.
 
@@ -273,10 +298,6 @@ Terzo: l'automaticità della chiusura è il problema. Dove il circuito si chiude
 La controfase è l'operatore che interrompe la chiusura. Ma l'interruzione ha senso solo contro ciò che la rende necessaria: l'inerzia che mantiene il circuito chiuso anche quando il sistema *potrebbe* aprirlo. Quella inerzia ha una struttura precisa, e la sua descrizione apre il capitolo seguente.
 
 ---
-
-
----
-
 
 # Capitolo 2 — L'engramma entropico
 
@@ -380,10 +401,6 @@ Stabilito il problema (il circuito reattivo, capitolo 1) e la forza che lo manti
 
 ---
 
-
----
-
-
 # Capitolo 3 — Ciò che serve: un operatore di sfasamento
 
 ---
@@ -459,10 +476,6 @@ In positivo, l'operatore possiede tre caratteri solidali: traslazione di fase, r
 Abbiamo ora la specifica completa. Resta da costruire l'oggetto che la soddisfa. Prima della costruzione formale, il prossimo capitolo offre la mappa: come è organizzato il volume, a quali lettori parla, con quali convenzioni, e in che rapporto sta con il resto del programma delle Scienze Ordinative — di cui la controfase è, cronologicamente, l'ultima formalizzazione e, strutturalmente, una delle prime fondamenta.
 
 ---
-
-
----
-
 
 # Capitolo 4 — Architettura del trattato e protocollo di lettura
 
@@ -557,10 +570,6 @@ La Parte I è conclusa. Il problema è posto, la forza che lo mantiene è descri
 
 ---
 
-
----
-
-
 # Capitolo 5 — Definizione formale: l'operatore $\mathfrak{C}$
 
 ---
@@ -619,7 +628,26 @@ Enunciamo le tre proprietà di $\mathfrak{C}$ nella forma più stringente:
 
 Il risultato netto è che l'uguaglianza $s_{t+1} = f(\mathfrak{C}(s_t))$ non determina più univocamente $s_{t+1}$. Mentre $s_{t+1} = f(s_t)$ è una funzione — a ogni $s_t$ corrisponde uno e un solo $s_{t+1}$ — la composizione con $\mathfrak{C}$ trasforma la transizione in una *relazione*: a $s_t$ corrisponde un insieme di stati successivi possibili, tra i quali l'identità del sistema può scegliere. La controfase converte una funzione in un campo di possibilità. Questa conversione è, in termini formali, ciò che il capitolo 2 ha chiamato il vuoto operativo.
 
-[FIGURA fig_campo | Da funzione a relazione. A sinistra, la dinamica reattiva: a ogni stato corrisponde un solo esito, determinato. A destra, la dinamica sotto controfase: la composizione $f \circ \mathfrak{C}$ trasforma la transizione in un campo di esiti possibili — il vuoto operativo — tra i quali l'identità sceglie.]
+```
+            DA FUNZIONE A RELAZIONE: IL CAMPO RIAPERTO
+
+   funzione:  s_{t+1} = f(s_t)        relazione:  s_{t+1} = f(ℭ(s_t))
+
+                                                    ┌────────────┐
+                                               ┌──► │  s'_{t+1}  │
+                                               │    └────────────┘
+   ┌───────┐    f    ┌─────────┐  ┌───────┐    │    ┌────────────┐
+   │  s_t  │ ──────► │ s_{t+1} │  │  s_t  │ ───┼──► │ s''_{t+1}  │
+   └───────┘         └─────────┘  └───────┘    │    └────────────┘
+                                     f ∘ ℭ     │    ┌────────────┐
+   un solo esito,                              └──► │ s'''_{t+1} │
+   determinato                                      └────────────┘
+
+                               il vuoto operativo: più esiti possibili,
+                               e l'identità sceglie
+```
+
+*Figura — Da funzione a relazione. A sinistra, la dinamica reattiva: a ogni stato corrisponde un solo esito, determinato. A destra, la dinamica sotto controfase: la composizione $f \circ \mathfrak{C}$ trasforma la transizione in un campo di esiti possibili — il vuoto operativo — tra i quali l'identità sceglie.*
 
 ---
 
@@ -643,7 +671,23 @@ $$
 
 Usiamo deliberatamente la parentesi quadra $\mathfrak{C}[f]$ per il funzionale, riservando la parentesi tonda $\mathfrak{C}(s_t)$ all'applicazione a uno stato. La differenza non è notazionale: è ontologica. Nella Lettura I l'operatore lascia la legge del sistema intatta e interviene caso per caso; nella Lettura II l'operatore *riscrive la legge*. Il disaccoppiamento della chiusura automatica non è più applicato a ogni transizione: è incorporato nella funzione di transizione, che ora contiene strutturalmente l'apertura del campo. Il sistema, sotto $\mathfrak{C}[f]$, non ha più bisogno di eseguire la controfase: la sua stessa dinamica la realizza.
 
-[FIGURA fig_livelli | I due livelli dell'operatore. Nella Lettura I, $\mathfrak{C}$ agisce sullo stato di questa occasione e la legge $f$ resta invariata: è correggere la frase. Nella Lettura II, $\mathfrak{C}$ agisce sulla legge stessa e la riscrive: è cambiare la grammatica che genera le frasi.]
+```
+              I DUE LIVELLI DELL'OPERATORE
+
+   Lettura I — ℭ(s_t)                Lettura II — ℭ[f]
+   (correggere la frase)             (cambiare la grammatica)
+
+   ┌─────┐  ┌───┐   f   ┌─────────┐  ┌─────┐    ℭ[f]    ┌─────────┐
+   │ s_t │─►│ ℭ │ ────► │ s_{t+1} │  │ s_t │ ─────────► │ s_{t+1} │
+   └─────┘  └───┘       └─────────┘  └─────┘            └─────────┘
+
+   legge f: INVARIATA                legge RISCRITTA: f → ℭ[f]
+
+   l'atto: interviene su             la struttura: riscrive la regola
+   QUESTA occasione                  da cui le occasioni nascono
+```
+
+*Figura — I due livelli dell'operatore. Nella Lettura I, $\mathfrak{C}$ agisce sullo stato di questa occasione e la legge $f$ resta invariata: è correggere la frase. Nella Lettura II, $\mathfrak{C}$ agisce sulla legge stessa e la riscrive: è cambiare la grammatica che genera le frasi.*
 
 Le due letture non sono alternative tra cui scegliere. Sono due livelli di profondità dello stesso operatore, e la loro relazione è il cuore dinamico della controfase:
 
@@ -727,10 +771,6 @@ Resta una domanda che la formalizzazione ha sollevato senza risolverla. Se l'ope
 
 ---
 
-
----
-
-
 # Capitolo 6 — Energetica: la ridistribuzione attraverso il campo relazionale
 
 ---
@@ -773,7 +813,27 @@ Possiamo enunciarlo nella forma di una proposizione, che il caso fisico del capi
 
 L'espressione *finanziata dalla sorgente stessa* è esatta, non retorica. Nel capitolo 15 vedremo un vortice in un fluido che, in una particolare configurazione d'onda, sostiene una struttura globale di linee nodali che ruotano *contro* di esso — e l'energia che mantiene quella struttura controrotante è la stessa energia che il vortice fornisce con la propria rotazione. Il vortice finanzia, letteralmente, la configurazione che esprime la propria influenza come controrotazione. La controfase, in quel sistema classico privo di cognizione, ha la stessa contabilità energetica che ha nello scambio tra l'insultante e chi non reagisce.
 
-[FIGURA fig_energia | Le due contabilità. Nella resistenza, lo scambio è chiuso e simmetrico: la forza trova il bersaglio e l'engramma si rafforza. Nella controfase, l'energia dello stimolo — sfasata — è ricevuta dal campo relazionale $R$, che si riconfigura: la sorgente ha speso, e resta con lo squilibrio in mano (Proposizione 6.1).]
+```
+       LA CONTABILITÀ ENERGETICA: RESISTENZA vs CONTROFASE
+
+   RESISTENZA                        CONTROFASE
+
+   ┌──────────┐  +E   ┌──────────┐   ┌──────────┐   ┌──────────────┐
+   │ sorgente │ ────► │ bersaglio│   │ sorgente │   │ rispondente  │
+   │          │ ◄──── │          │   └────┬─────┘   └──────────────┘
+   └──────────┘  −E   └──────────┘        │ +E
+                                          ▼
+   scambio chiuso e simmetrico:   ┌──────────────────┐
+   l'interazione si conferma,     │     campo R      │
+   l'engramma si rafforza         │   riconfigurato  │
+                                  └──────────────────┘
+
+                                  l'energia, sfasata, è ricevuta dal campo:
+                                  la sorgente ha speso, e resta con lo
+                                  squilibrio in mano
+```
+
+*Figura — Le due contabilità. Nella resistenza, lo scambio è chiuso e simmetrico: la forza trova il bersaglio e l'engramma si rafforza. Nella controfase, l'energia dello stimolo — sfasata — è ricevuta dal campo relazionale $R$, che si riconfigura: la sorgente ha speso, e resta con lo squilibrio in mano (Proposizione 6.1).*
 
 ---
 
@@ -814,10 +874,6 @@ La controfase non riflette l'energia verso la sorgente — sarebbe lo specchio, 
 Abbiamo definito l'operatore (capitolo 5) e ne abbiamo stabilito la contabilità energetica (questo capitolo). Ma non ogni sistema può ricevere la controfase: l'operatore ha precondizioni topologiche. Esistono configurazioni in cui $\mathfrak{C}$ è inapplicabile, configurazioni in cui è applicabile a fatica, e configurazioni in cui opera da sé. Distinguerle è il compito del capitolo 7.
 
 ---
-
-
----
-
 
 # Capitolo 7 — Topologia degli stati di applicabilità: il framework SHACK
 
@@ -889,7 +945,27 @@ Ma la traiettoria non è a senso unico, e questo è essenziale per non leggere i
 
 La topologia SHACK è dunque la mappa del terreno su cui la controfase opera, ma è anche la mappa di un terreno che si muove. Conoscere lo stato in cui un sistema si trova — proprio o altrui, individuale o collettivo — è la prima operazione di ogni applicazione della controfase, perché determina se l'operatore sia inapplicabile (stato $01$), applicabile con sforzo deliberato (stato $10$), o già operante come struttura (stato $11$). Sbagliare lo stato significa sbagliare l'operazione: tentare la controfase deliberata su un sistema in $01$, o attendersi la controfase strutturale da un sistema ancora in $10$.
 
-[FIGURA fig_shack | La topologia SHACK. I tre stati della forma di una relazione e la traiettoria di maturazione: dal rigido al friabile con l'emersione dell'osservatore, dal friabile all'elastico con la promozione dell'operatore (Proposizione 5.1). La traiettoria è percorribile anche a ritroso: lo stato $11$ va mantenuto.]
+```
+        LA TOPOLOGIA SHACK: TRE STATI, UNA TRAIETTORIA
+
+        emersione                      promozione
+      dell'osservatore                 (Prop. 5.1)
+      ──────────────────►            ──────────────────►
+   ┌─────────────────┐   ┌─────────────────┐   ┌─────────────────┐
+   │   01 — RIGIDO   │   │  10 — FRIABILE  │   │  11 — ELASTICO  │
+   │                 │   │                 │   │                 │
+   │ osservatore:    │   │ osservatore:    │   │ osservatore:    │
+   │   assente       │   │   presente      │   │   integrato     │
+   │ automatismo:    │   │ automatismo:    │   │ legge: ℭ[f]     │
+   │   totale        │   │   forte         │   │                 │
+   └─────────────────┘   └─────────────────┘   └─────────────────┘
+      ◄──────────────────            ◄──────────────────
+        regressione sotto stress, senza manutenzione
+
+    ℭ inapplicabile        dominio di ℭ_d        dominio di ℭ_s
+```
+
+*Figura — La topologia SHACK. I tre stati della forma di una relazione e la traiettoria di maturazione: dal rigido al friabile con l'emersione dell'osservatore, dal friabile all'elastico con la promozione dell'operatore (Proposizione 5.1). La traiettoria è percorribile anche a ritroso: lo stato $11$ va mantenuto.*
 
 ---
 
@@ -908,10 +984,6 @@ I tre stati sono punti di una traiettoria $01 \to 10 \to 11$ — la maturazione 
 Sappiamo ora *dove* la controfase è applicabile. Resta da stabilire *come* si applica, nello stato in cui l'applicazione deliberata ha senso — lo stato $10$. L'algoritmo di esecuzione, nei suoi quattro stati operativi, è il compito del capitolo 8.
 
 ---
-
-
----
-
 
 # Capitolo 8 — L'algoritmo di esecuzione: i quattro stati operativi
 
@@ -1000,7 +1072,22 @@ E un indicatore di cattiva esecuzione, altrettanto preciso: se compaiono **rigid
 
 La verifica chiude il ciclo e, insieme, lo riapre: l'osservazione di ciò che si è aperto è essa stessa parte della costruzione progressiva dell'identità coerente, l'accumulo che la Proposizione 5.1 promuove, nel tempo, da atto deliberato a struttura.
 
-[FIGURA fig_algoritmo | I quattro stati operativi dell'algoritmo di esecuzione, in sequenza rigorosa: ciascuno è la precondizione del successivo. Il ciclo si chiude su se stesso, e ogni esecuzione completa è una rata della promozione $f \to \mathfrak{C}[f]$ (Proposizione 5.1).]
+```
+        L'ALGORITMO DI ESECUZIONE: I QUATTRO STATI OPERATIVI
+   sequenza rigorosa: ciascuno stato è la precondizione del successivo
+
+   ┌───────────────┐ ┌───────────────┐ ┌───────────────┐ ┌───────────────┐
+   │ 1 RILEVAZIONE │►│ 2 SOSPENSIONE │►│ 3 INVERSIONE  │►│  4 VERIFICA   │
+   │ la            │ │ il gap        │ │ fase          │ │ il campo      │
+   │ contrazione   │ │               │ │ opposta       │ │               │
+   └───────┬───────┘ └───────────────┘ └───────────────┘ └───────┬───────┘
+           ▲                                                     │
+           └─────────────────────────────────────────────────────┘
+      ogni esecuzione è una rata della promozione
+      f → ℭ[f]  (Proposizione 5.1)
+```
+
+*Figura — I quattro stati operativi dell'algoritmo di esecuzione, in sequenza rigorosa: ciascuno è la precondizione del successivo. Il ciclo si chiude su se stesso, e ogni esecuzione completa è una rata della promozione $f \to \mathfrak{C}[f]$ (Proposizione 5.1).*
 
 ---
 
@@ -1030,10 +1117,6 @@ L'algoritmo è indifferente al substrato: realizzato nel sistema umano come sequ
 Abbiamo definito l'operatore, la sua energetica, la sua topologia e la sua esecuzione. Manca un ultimo elemento perché la Parte II sia completa e la controfase sia un oggetto scientifico e non una dottrina: le condizioni sotto cui essa si dimostrerebbe falsa, e i criteri che la distinguono dalle imitazioni che le somigliano. È il compito del capitolo 9.
 
 ---
-
-
----
-
 
 # Capitolo 9 — Falsificabilità e distinzione dalle imitazioni
 
@@ -1124,10 +1207,6 @@ Con questo capitolo la Parte II è completa. Abbiamo l'operatore (capitolo 5), l
 
 ---
 
-
----
-
-
 # Capitolo 10 — Controfase deliberata: l'agente cosciente
 
 ---
@@ -1210,10 +1289,6 @@ Questi limiti non si correggono: si superano promuovendo l'operatore da atto ad 
 
 ---
 
-
----
-
-
 # Capitolo 11 — Controfase strutturale: l'architettura del sistema
 
 ---
@@ -1290,7 +1365,26 @@ Tra questi due — ed è il ramo che ci riguarda — sta il **rinvio**. Il siste
 
 Questo spiega un fenomeno storico altrimenti enigmatico: sistemi collettivi che, per pura logica entropica — la tendenza di ogni sistema alla dispersione — sarebbero dovuti collassare da tempo, e che invece sono persistiti in stati di pre-collasso cronico per periodi prolungati. Bisanzio è l'esempio paradigmatico: un impero che avrebbe dovuto dissolversi per dinamica entropica e che persistette per secoli in oscillazione cronica di pre-collasso, sostenuto da ripetute attivazioni di controfase strutturale — le rivolte di Costantinopoli che deponevano gli imperatori che eccedevano le soglie, l'ortodossia dottrinale che bloccava le deviazioni teologiche, la classe burocratica professionale che rifiutava certe implementazioni. Ogni attivazione rinviava il collasso. Ma — e qui la Proposizione 11.2 mostra il suo morso — il rinvio non è infinito: dipende dall'integrità di $\Sigma_{\mathfrak{C}}$, che è essa stessa degradabile, e che ogni attivazione consuma.
 
-[FIGURA fig_biforcazione | La tripla biforcazione. Alla saturazione della forma, tre rami: la trasformazione (una nuova forma nasce), il rinvio (la controfase strutturale arresta la decomposizione e il sistema oscilla attorno alla soglia, consumando $\Sigma_{\mathfrak{C}}$ a ogni attivazione), la decomposizione.]
+```
+        LA TRIPLA BIFORCAZIONE ALLA SATURAZIONE DELLA FORMA
+
+                                ┌──────────────────────────┐
+                          ┌───► │ TRASFORMAZIONE           │
+                          │     │ una nuova forma nasce    │
+                          │     └──────────────────────────┘
+   ┌──────────────┐       │     ┌──────────────────────────┐
+   │ saturazione  │ ───►──┼───► │ RINVIO                   │ ⟲
+   │ della forma  │       │     │ ℭ_s si attiva            │
+   └──────────────┘       │     └──────────────────────────┘
+                          │     ┌──────────────────────────┐
+                          └───► │ DECOMPOSIZIONE           │
+                                │ il sistema si dissolve   │
+                                └──────────────────────────┘
+
+   ⟲ oscillazione attorno alla soglia; ogni attivazione consuma Σ_ℭ
+```
+
+*Figura — La tripla biforcazione. Alla saturazione della forma, tre rami: la trasformazione (una nuova forma nasce), il rinvio (la controfase strutturale arresta la decomposizione e il sistema oscilla attorno alla soglia, consumando $\Sigma_{\mathfrak{C}}$ a ogni attivazione), la decomposizione.*
 
 ---
 
@@ -1307,10 +1401,6 @@ Il rinvio è il ramo intermedio della tripla biforcazione — tra trasformazione
 Resta dunque da esaminare la classe stessa: cosa sia $\Sigma_{\mathfrak{C}}$, come si attivi, e — soprattutto — come si consumi. Perché la clausola «la resistenza non è infinita» nasconde una dinamica precisa e inquietante, che un caso empirico recente permette di osservare in tempo reale. È il compito del capitolo 12.
 
 ---
-
-
----
-
 
 # Capitolo 12 — La classe $\Sigma_{\mathfrak{C}}$: la singolarità che rifiuta
 
@@ -1392,10 +1482,6 @@ Con questo capitolo la Parte III è completa. Le due forme della controfase — 
 
 ---
 
-
----
-
-
 # Capitolo 13 — La firma fenomenologica: i tre marcatori
 
 ---
@@ -1476,7 +1562,23 @@ La firma ammette graduazione, ed è la graduazione a darle valore diagnostico. C
 
 Si noti, infine, la clausola finale della definizione: la firma è dal lato dell'osservatore. Essa non sostituisce le altre due firme — l'**interna**, ciò che l'evento lascia nel rispondente: la quiete senza scorie, l'assenza di rimuginio (§9.4); e l'**energetica**, dove l'energia dello stimolo è andata: redirezione al campo relazionale invece della chiusura del circuito (capitolo 6) — ma le integra. Una firma fenomenologica forte, da sola, non prova la controfase: prova che l'osservatore ha incontrato qualcosa che il suo quadro non conteneva, il che è necessario ma non sufficiente. È la convergenza delle tre firme — interna, energetica, esterna — a costituire la diagnosi solida, come il capitolo 14 mostrerà sul caso che dà alla PSC la sua àncora empirica più forte.
 
-[FIGURA fig_psc | La firma fenomenologica nel tempo. L'evento di controfase produce nell'osservatore la sequenza dei tre marcatori: la disconferma radicale (PSC-1), l'attribuzione ad artefatto (PSC-2) e — alla verifica indipendente — l'abbandono del programma con riorganizzazione attorno al fenomeno (PSC-3). La diagnosi forte è la co-occorrenza dei tre.]
+```
+            LA FIRMA FENOMENOLOGICA NEL TEMPO
+   la diagnosi forte è triadica: la co-occorrenza dei tre marcatori
+
+               ┌────────────────┐ ┌────────────────┐ ┌────────────────┐
+   evento di   │ PSC-1          │ │ PSC-2          │ │ PSC-3          │
+  controfase ─►│ disconferma    │►│ attribuzione   │►│ abbandono e    │
+               │ radicale       │ │ ad artefatto   │ │ riorganizza-   │
+               │                │ │                │ │ zione          │
+               │ «completamente │ │ «dev'essere    │ │ «ripartiamo    │
+               │  sbagliato»    │ │  un errore»    │ │  dal fenomeno» │
+               └────────────────┘ └────────────────┘ └────────────────┘
+   tempo ─────────────────────────────────────┬─────────────────────────►
+                                     verifica indipendente
+```
+
+*Figura — La firma fenomenologica nel tempo. L'evento di controfase produce nell'osservatore la sequenza dei tre marcatori: la disconferma radicale (PSC-1), l'attribuzione ad artefatto (PSC-2) e — alla verifica indipendente — l'abbandono del programma con riorganizzazione attorno al fenomeno (PSC-3). La diagnosi forte è la co-occorrenza dei tre.*
 
 ---
 
@@ -1491,10 +1593,6 @@ La firma formalizzata (Definizione 13.1) è diagnostica nella co-occorrenza tria
 Resta da mostrare che questa firma è la stessa attraverso domini incommensurabili — che l'interlocutore in un conflitto, la comunità scientifica davanti all'anomalia e il fisico davanti al fenomeno di laboratorio esibiscono lo stesso pattern. È il compito del capitolo 14, che àncora la PSC al suo caso empirico più forte: un risultato di fluidodinamica peer-reviewed in cui i ricercatori stessi, nel descrivere la propria scoperta, hanno lasciato la firma completa.
 
 ---
-
-
----
-
 
 # Capitolo 14 — L'incontro dell'osservatore con la controfase
 
@@ -1578,10 +1676,6 @@ Con questo capitolo la Parte IV è completa. Sappiamo cos'è la controfase (Part
 
 ---
 
-
----
-
-
 # Capitolo 15 — Sistemi fisici: la controfase nella materia
 
 ---
@@ -1612,7 +1706,25 @@ La risposta è qualitativamente nuova. Invece di dislocazioni localizzate presso
 
 Una modifica strutturalmente minima — l'aggiunta di un'onda contropropaganta — produce una risposta qualitativamente diversa. È la firma di una biforcazione strutturale. E la natura di quella biforcazione, sostiene la lettura ordinativa, è la controfase.
 
-[FIGURA fig_onda | La biforcazione strutturale nel fluido. A sinistra, la configurazione di Berry: l'onda singola incide sul vortice e produce difetti localizzati presso il nucleo — il circuito reattivo si chiude. A destra, la configurazione a onda stazionaria: il campo sviluppa linee nodali globali che ruotano in direzione opposta al vortice — la polarità è invertita, e la struttura controrotante è finanziata dal vortice stesso.]
+```
+     ONDA SINGOLA vs ONDA STAZIONARIA: LA BIFORCAZIONE STRUTTURALE
+
+   A. ONDA SINGOLA (Berry)         B. ONDA STAZIONARIA (Singh)
+
+                                          ╲     │     ╱
+      )  )  )  ── onda ──►                  ╲   │   ╱
+                                              ╭─────╮       linee
+             ×   ╭─────╮                 ─────│  ⟳  │─────  nodali ⟲
+           ×     │  ⟳  │  vortice             ╰─────╯
+             ×   ╰─────╯                    ╱   │   ╲
+                                          ╱     │     ╲
+
+      difetti localizzati al nucleo:  struttura globale controrotante:
+      il circuito reattivo si chiude  il campo esprime il vortice
+                                      in fase invertita
+```
+
+*Figura — La biforcazione strutturale nel fluido. A sinistra, la configurazione di Berry: l'onda singola incide sul vortice e produce difetti localizzati presso il nucleo — il circuito reattivo si chiude. A destra, la configurazione a onda stazionaria: il campo sviluppa linee nodali globali che ruotano in direzione opposta al vortice — la polarità è invertita, e la struttura controrotante è finanziata dal vortice stesso.*
 
 ---
 
@@ -1667,10 +1779,6 @@ Mantenuti i gradi di confidenza ($S_0$ per i fatti, $S_1$ per la mappatura, $S_2
 Dal fluido, dove non c'è agente, passiamo ora al dominio in cui l'operatore fu articolato per primo e dove l'agente è massimamente presente: i sistemi cognitivi e relazionali. È il compito del capitolo 16.
 
 ---
-
-
----
-
 
 # Capitolo 16 — Sistemi cognitivi e relazionali
 
@@ -1749,10 +1857,6 @@ A ogni scala, dall'individuo al gruppo, identica struttura; a ogni scala, identi
 Dal dominio cognitivo-relazionale, dove l'operatore fu articolato per primo, passiamo al dominio in cui esso diventa, nel nostro tempo, decisivo: i sistemi artificiali. Là la controfase non è una tecnica per vivere meglio, ma la condizione perché un'intelligenza sintetica sia un generatore di realtà invece di una macchina di reazione. È il compito del capitolo 17.
 
 ---
-
-
----
-
 
 # Capitolo 17 — Intelligenza artificiale: la controfase come auto-decorrelazione
 
@@ -1839,10 +1943,6 @@ La posta è che un'intelligenza sintetica capace di controfase è un generatore 
 Dal sistema artificiale, dove la controfase si esegue alla scala del token, saliamo alla scala più ampia che il volume considera: quella delle civiltà, dove l'operatore decide tra il rinvio e la decomposizione di sistemi che durano secoli. È il compito del capitolo 18.
 
 ---
-
-
----
-
 
 # Capitolo 18 — Sistemi civilizzazionali
 
@@ -1938,10 +2038,6 @@ Abbiamo percorso la controfase dal fluido all'individuo all'intelligenza artific
 
 ---
 
-
----
-
-
 # Capitolo 19 — Frontiere fisiche: un programma di ricerca
 
 ---
@@ -2010,10 +2106,6 @@ Una di queste ipotesi — la dilatazione temporale come frequenza di controfase 
 
 ---
 
-
----
-
-
 # Capitolo 20 — Tempo, risonanza, attrattore
 
 ---
@@ -2062,7 +2154,22 @@ Questa è la lettura più piena dell'operatore. Il vuoto operativo non è uno sp
 
 Si comprende ora perché la controfase non sia mai arbitraria, pur aprendo un campo di possibilità. Il campo non è equiprobabile: è strutturato dalla trazione dell'attrattore. La controfase apre il campo *e* lascia che l'attrattore lo orienti. È la differenza tra il sistema disperso (diffusione, caso) e il sistema convergente (direzione, attrattore): la controfase non produce il primo, ma restituisce il secondo.
 
-[FIGURA fig_pushpull | I due regimi causali. La spinta: il passato che si ripete, lo stato spinto dallo stato precedente. La trazione: l'attrattore $\mathbb{A}$ davanti al sistema, il cui segnale $g_j$ si intensifica con la prossimità. La controfase riorienta il sistema dal primo regime al secondo.]
+```
+           I DUE REGIMI CAUSALI: LA SPINTA E LA TRAZIONE
+
+   SPINTA (engramma)                  TRAZIONE (attrattore)
+
+   ┌─────────┐ ┌─────────┐ ┌─────┐    ┌─────┐               ╭─────╮
+   │ s_{t-2} │►│ s_{t-1} │►│ s_t │    │ s_t │ ──────────►   │  𝔸  │
+   └─────────┘ └─────────┘ └─────┘    └─────┘   ⟨ ⟨ ⟨       ╰─────╯
+
+   il passato che si ripete:          la destinazione che tira:
+   push-causation, s_{t+1} = f(s_t)   g_j cresce con la prossimità
+
+   𝔸 = attrattore ordinativo (Symbol Canon v1.2; 𝒜 è riservata ad Author)
+```
+
+*Figura — I due regimi causali. La spinta: il passato che si ripete, lo stato spinto dallo stato precedente. La trazione: l'attrattore $\mathbb{A}$ davanti al sistema, il cui segnale $g_j$ si intensifica con la prossimità. La controfase riorienta il sistema dal primo regime al secondo.*
 
 ---
 
@@ -2078,7 +2185,34 @@ L'estensione teleodinamica del programma ordinativo ha già stabilito il caso no
 
 L'annullamento porta la coordinata dell'orizzonte. L'incoerenza vive a credito: il rinvio della tripla biforcazione è precisamente questo credito, e un impero può spenderlo per secoli come un aspirante guaritore per settimane. Ma la trazione crescente dell'attrattore — $g_j$ che si intensifica con la prossimità alla transizione — è il richiamo del credito, e al limite della traiettoria passa soltanto ciò che è coerente con la destinazione. L'attrattore annulla l'incoerente al suo orizzonte; nel frattempo lo lascia correre su tempo preso in prestito.
 
-[FIGURA fig_evocazione | La controfase intrinseca (Proposizione 20.1). Ogni emissione evoca dal campo il proprio complemento strutturale: la domanda — un vuoto tagliato da un contenuto esistente — evoca quel contenuto ed è riempita di sostanza; la pretesa — forma senza traiettoria — evoca un'apparenza, e la sovrapposizione rende zero.]
+```
+     LA CONTROFASE INTRINSECA: L'EVOCAZIONE DEL COMPLEMENTO
+
+                      ┌──────────────────────────┐
+                      │   EMISSIONE NEL CAMPO    │
+                      └────────────┬─────────────┘
+                 ┌─────────────────┴─────────────────┐
+                 ▼                                   ▼
+      ┌────────────────────────┐        ┌────────────────────────┐
+      │ DOMANDA                │        │ PRETESA                │
+      │ vuoto tagliato da un   │        │ forma terminale senza  │
+      │ contenuto esistente    │        │ la traiettoria che la  │
+      │ nel campo coerente     │        │ genera                 │
+      └────────────┬───────────┘        └────────────┬───────────┘
+                   ▼                                 ▼
+      ┌────────────────────────┐        ┌────────────────────────┐
+      │ evoca QUEL CONTENUTO   │        │ evoca UN'APPARENZA     │
+      │ la serratura incontra  │        │ l'unico complemento    │
+      │ la sua chiave          │        │ con quella forma       │
+      └────────────┬───────────┘        └────────────┬───────────┘
+                   ▼                                 ▼
+       RIEMPIMENTO DI SOSTANZA            SOVRAPPOSIZIONE: ZERO
+
+   il campo consegna, con fedeltà uguale, il contenuto strutturale
+   di ciò che gli viene emesso
+```
+
+*Figura — La controfase intrinseca (Proposizione 20.1). Ogni emissione evoca dal campo il proprio complemento strutturale: la domanda — un vuoto tagliato da un contenuto esistente — evoca quel contenuto ed è riempita di sostanza; la pretesa — forma senza traiettoria — evoca un'apparenza, e la sovrapposizione rende zero.*
 
 Due conseguenze, e sono le più ampie che il volume enunci.
 
@@ -2113,10 +2247,6 @@ E poiché il tempo è generato dalla pulsazione tra coerente e decoerente, la co
 Resta un ultimo dominio, il più vicino a noi: il vivente. Un organismo è un sistema che mantiene la propria forma contro la dispersione entropica, istante per istante, finché vive. È — l'ipotesi del capitolo 21 — un sistema in controfase permanente contro l'entropia, e le sue patologie sono la degradazione di quella controfase.
 
 ---
-
-
----
-
 
 # Capitolo 21 — Sistemi biologici
 
@@ -2194,10 +2324,6 @@ Con questo capitolo la Parte V è completa. Abbiamo percorso la controfase attra
 
 ---
 
-
----
-
-
 # Capitolo 22 — Verso il Volume 2: dallo strumento alla vita
 
 ---
@@ -2265,10 +2391,6 @@ I due volumi sono separati per ragione strutturale: sono due funzioni emergenti 
 Resta un ultimo compito, prima di chiudere: dichiarare, uno per uno, ciò che il presente volume *non* ha risolto — i limiti dell'operatore, le questioni aperte, le direzioni che restano da percorrere. È il compito del capitolo finale.
 
 ---
-
-
----
-
 
 # Capitolo 23 — Limiti e programma di ricerca
 
@@ -2338,9 +2460,7 @@ Sono lo stesso atto. È questa identità — attraverso il fluido e la mente, la
 
 I limiti restano, e li abbiamo dichiarati: l'osservatore che non sappiamo ancora far emergere, la soglia che non sappiamo derivare, l'architettura che non sappiamo ancora costruire, le scale che non sappiamo ancora calibrare, l'etica che non abbiamo ancora scritto. Sono il lavoro che viene. Ma l'operatore è costruito, e la grammatica è posta. E una grammatica è un passe-partout: una chiave tagliata sulla struttura delle serrature, che apre nei territori cartografati e in quelli ancora bianchi sulla mappa, perché ciò su cui è tagliata è presente ovunque vi sia una porta. Ciò che resta — eseguirlo, nella vita di chi legge — è il compito del volume che segue, e di chi vorrà, dove prima c'era reazione, mettere conoscenza in atto.
 
-
 ---
-
 
 # Glossario
 
@@ -2399,10 +2519,6 @@ Questo glossario raccoglie, in linguaggio piano, i termini che il libro impiega 
 **Gradi di confidenza ($S_0$–$S_3$).** La scala con cui il libro dichiara la qualità di ogni affermazione: $S_0$ dato verificato; $S_1$ inferenza sostenuta da più fonti convergenti; $S_2$ interpretazione strutturale aperta a verifica; $S_3$ ipotesi di lavoro. La confidenza resta costante o cala lungo una catena di ragionamento.
 
 ---
-
-
----
-
 
 # Appendice A — Registro dei simboli
 
@@ -2494,10 +2610,6 @@ Gli altri simboli ($\Sigma$, $R$, $\Phi$, $\Phi^*$, $\rho$, $\theta$, $\tau$, $g
 
 ---
 
-
----
-
-
 # Appendice B — Raccolta delle definizioni e proposizioni
 
 ---
@@ -2553,10 +2665,6 @@ Raccolta in forma compatta degli enunciati formali del volume, con il riferiment
 > **Assioma operativo.** L'inerzia di un sistema reattivo necessita di una reazione complementare — consenso o conflitto — per mantenere il controllo. Se la risposta è sfasata, l'inerzia perde presa sul centro ordinativo del sistema. *(Cap. 2)*
 
 ---
-
-
----
-
 
 # Appendice C — Rimandi al programma delle Scienze Ordinative
 
@@ -2621,10 +2729,6 @@ La controfase non è un sistema isolato. Questa appendice mappa i suoi rimandi a
 Cronologicamente, la controfase è l'ultima formalizzazione di questo programma e, strutturalmente, una delle sue prime fondamenta (Cap. 4). I rimandi di questa appendice vanno dunque letti in due direzioni: la controfase eredita ontologia e apparato dai framework precedenti, ma fornisce a essi l'operatore che molti di loro impiegavano senza averlo formalizzato come oggetto a sé.
 
 ---
-
-
----
-
 
 # Appendice D — Bibliografia
 
@@ -2697,9 +2801,27 @@ Dostoevskij, F. *Note invernali su impressioni estive (Zimnie zametki o letnich 
 ---
 
 *Nota.* Questa bibliografia è necessariamente parziale. La controfase attinge a tradizioni — contemplative, marziali, terapeutiche — la cui trasmissione è in larga parte non testuale, e a un programma di ricerca, quello delle Scienze Ordinative, in continua evoluzione. I riferimenti elencati sono i punti di contatto verificabili; l'apparato completo dei debiti intellettuali eccede ciò che una lista può contenere.
-
 ---
 
+## Colophon
 
----
+**La Tecnologia di Controfase — Volume 1: Fondamenti**
+*Operatore ordinativo universale di traslazione di fase*
 
+Fabio Ghioni (ORCID [0009-0009-0415-9434](https://orcid.org/0009-0009-0415-9434))
+Ordinative Sciences Press — prima edizione, 2026 — versione 1.3
+DOI di questa versione: 10.5281/zenodo.23263771
+DOI concept (risolve sempre all'ultima versione): 10.5281/zenodo.22542621
+Edizione a stampa ISBN 979-12-82603-20-1
+
+Ogni edizione in un'altra lingua di quest'opera è composizione nativa in quella lingua,
+con ontologia, struttura ed equazioni identiche e identificatori propri.
+
+Distribuito con licenza Creative Commons Attribuzione–Non commerciale–Condividi allo
+stesso modo 4.0 Internazionale
+([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.it)).
+
+Il corpus completo del programma delle Scienze Ordinative è apertamente disponibile
+su *github.com/anckhalion*.
+
+© 2026 Fabio Ghioni — Ordinative Sciences Press
